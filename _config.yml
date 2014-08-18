@@ -31,7 +31,7 @@ logisticsMapMobileCenterCoordinates: "-11.0014025,-37.1034679"
 
 #Tweets feed
 twitterHashTag: "devfestnordeste"
-# twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=900"
+twitterFeed: "http://gdgjp.org.br/old/twitterApp/get_timeline.php?c=10&cache_interval=900"
 
 # Subscribe
 subscribeAction: "http://devfestne.us8.list-manage.com/subscribe/post?u=89545d81cc2471a50c83a319d&amp;id=bc6da73bc8"
