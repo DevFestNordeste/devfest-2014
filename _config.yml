@@ -9,63 +9,209 @@ title: DevFest Nordeste 2014
 email: contato@devfestne.com.br
 description: "DevFest Nordeste é o maior evento de tecnologias Google do Nordeste"
 baseurl: ""
-url: "http://devfestnordeste.github.io"
+url: "http://2014.devfestne.com.br"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-49492619-3"
 googleAnalyticsSiteUrl: "devfestne.com.br"
 
-# Location block
-eventLocationName: "Radisson Hotel"
-eventLocationAddress: "Rua Dr. Bezerra de Menezes, 40 - Atalaia, Aracaju - SE"
-eventStartTime: "2014-10-18T10:00"
-eventStartTimeHumanReadable: "08:00"
-eventEndTime: "2014-10-18T20:00"
-eventEndTimeHumanReadable: "20:00"
-eventPlaceCoordinates: "-10.976712,-37.040825,17"
-mapCenterCoordinates: "-10.976712,-37.040825,17"
-mapMobileCenterCoordinates: "-10.976712,-37.040825,17"
-
-# Logistics Location Block
-logisticsMapCenterCoordinates: "-11.0014025,-37.1034679"
-logisticsMapMobileCenterCoordinates: "-11.0014025,-37.1034679"
-
-#Tweets feed
-twitterHashTag: "devfestnordeste"
-twitterFeed: "http://gdgjp.org.br/old/twitterApp/get_timeline.php?c=10&cache_interval=900"
-
-# Subscribe
-subscribeAction: "http://devfestne.us8.list-manage.com/subscribe/post?u=89545d81cc2471a50c83a319d&amp;id=bc6da73bc8"
-
-# Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
-c4sponsorsUrl: "/blog/"
+# Organizer Info
+organizerName: "DevFest NE 2014"
+organizerAlternateName: "Equipe DevFest Nordeste 2014"
+organizerDescription: "Comunidades geek abertas e voluntárias que criam projetos excitantes e compartilham experiência com tecnologia Google com paixão."
+organizerEmail: "contato@devfestne.com.br"
+organizerLogo: "/img/seo/organizer-logo.png"
+organizerLink: "http://ne.devfest.com.br/"
 
 # Head
-metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers"
-twitterAccount: "@DevFest"
+metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
+twitterAccount: "@DevFestNE"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
-# Header
-eventDate: "18 de Outubro 2014"
+# Documents
+c4pUrl: "http://bit.ly/devfestne-call"
+c4sponsorsUrl: "/blog/"
+
+# Navigation
+navigationLinks:
+ - {permalink: "/", text: "Home"}
+ - {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/team/", text: "Equipe"}
+ - {permalink: "/logistics/", text: "Logística"}
+ - {link: "https://developers.google.com", text: "Desenvolvedores"}
+bottomNavigationLinks:
+ - {link: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
+rightNavigationButtons:
+ - {link: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
+
+# Hero Block
+heroTitle: "GDG DevFest <typeout> 2014"
+eventDate: "18 de outubro de 2014"
 typeoutTextValues: '"", "Nordeste", "Aracaju", "João Pessoa", "Fortaleza", "Recife", "Maceió", "Natal"'
+heroButtons:
+ - {url: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
 
-# About Event Block
-eventName: "GDG DevFest Nordeste"
+# About Block
+aboutTitle: "Sobre GDG DevFest"
+aboutBlock:
+ - {title: "Conferência", image: "conference.jpg", text: "O maior evento do Nordeste relacionado ao Google cuidadosamente elaborado para você da comunidade GDG! Palestrantes impressionantes e muita diversão!" }
+ - {title: "Workshops", image: "workshop.jpg", text: "Dia inteiro de workshops, hands-on, hacking e debugging. Venha domar a sua tecnologia favorita!" }
+ - {title: "Happy DevFest Hour", image: "hackathon.jpg", text: "Depois de um dia inteiro de conteúdos incríveis, é hora de socializar!" }
 
-# Team Block
-aboutUs: "Ferramentas e produtos do Google se tornaram sinônimo de produtividade e desempenho no mundo online. O número de inovações tecnológicas e indústrias de TI em que o Google está criando novas ferramentas e produtos é enorme. É difícil conhecer todos eles. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e partilharam a sua experiência com tais produtos. Mais tarde, os seguintes grupos foram chamados Grupos de Desenvolvedores do Google. GDGs podem assumir muitas formas - de apenas algumas pessoas que se juntam para assistir alguns vídeos, para grandes encontros com demonstrações, palestras técnicas, hackathons e conferências."
+# Statistic Block
+statisticBlock:
+ - {count: "250", specialCharacter: "+", info: "participantes", detail: "de todo Brasil"}
+ - {count: "24", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
+ - {count: "15", specialCharacter: "+", info: "palestrantes", detail: "de todo Brasil"}
+ - {count: "2", specialCharacter: "", info: "trilhas paralelas", detail: "mais lounge de entretenimento"}
+
+# Latest News Block
+latestNewsTitle: "Últimas notícias"
+
+# Rockstar Speakers Block
+rockstarSpeakersCount: 4
+rockstarSpeakersTitle: "Palestrantes rockstar"
+rockstarSpeakersButtonText: "Veja todos palestrantes"
+
+# Location Block
+locationBlockTitle: "Local"
+eventLocationName: "Radisson Hotel"
+eventLocationLink: "http://www.radisson.com/aracaju-hotel-br-29055-180/braracaj"
+eventStreetAddress: "Rua Dr. Bezerra de Menezes, 40"
+eventAddressLocality: "Aracaju"
+eventAddressLocalityRegion: "Sergipe"
+eventPostalCode: "49035240"
+eventAddressCountry: "Brasil"
+eventStartTime: "2014-10-18T08:00"
+eventDoorTime: "07:30"
+eventEndTime: "2014-10-24T20:00"
+eventPlaceCoordinates: "-10.976712,-37.040825,17"
+mapCenterCoordinates: "-10.976712,-37.040825,17"
+mapMobileCenterCoordinates: "-10.976712,-37.040825,17"
+
+# Venue Block
+venueBlockTitle: "Venue"
+venueTitle: "Radisson Hotel"
+venueFeatures: ["2 salas de apresentação", "Localizado na Orla de Atalaia"]
+
+# Tweets Feed Block
+tweetsFeedTitle: "Quais as novidades?"
+twitterHashTag: "devfestnordeste"
+twitterFeed: "http://gdgjp.org.br/old/twitterApp/get_timeline.php?c=10&cache_interval=900"
+
+# Partners Block
+partnersTitle: "Parceiros"
+partnersC4sponsorsButton: "Seja um patrocinador"
+
+# Organizers Block
+organizersTitle: "Organizadores"
+
+# Subscribe Block
+subscribeTitle: "Inscreva-se para as novidades"
+subscribeAction: "http://devfestne.us8.list-manage.com/subscribe/post?u=89545d81cc2471a50c83a319d&amp;id=bc6da73bc8"
+subscribeInfo: "Inscrições estarão disponíveis em breve. O número de ingressos é limitado! Não perca a oportunidade."
+
+# Buy Tickets Block
+buyTicketsTitle: "Preços"
+ticketsOffers:
+ -
+  name: "1 day"
+  price: "$100"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+ -
+  name: "3 days"
+  price: "$180"
+  ribbon: "-20%"
+  featured: true
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+ -
+  name: "2 days"
+  price: "$150"
+  buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Buy Now"
+  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
+  validFrom: "2014-08-20T10:00"
+  validThrough: "2014-10-23T23:59"
+
+# Footer
+socialLinks:
+ - {link: "https://plus.google.com/u/0/+DevfestneBr/", icon: "google-plus"}
+ - {link: "https://twitter.com/intent/user?screen_name=DevfestNE", icon: "twitter"}
+ - {link: "https://facebook.com/DevFestNE", icon: "facebook"}
+ - {link: "http://2014.devfestne.com.br/feed.xml", icon: "rss"}
+footerBlocks:
+ -
+  title: "Links"
+  links:
+   - {link: "https://developers.google.com", text: "Google Developers"}
+ -
+  title: "Contato"
+  links:
+   - {link: "mailto:contato@devfestne.com.br", text: "contato@devfestne.com.br"}
+ -
+  title: "FAQ"
+  links:
+   - {permalink: "http://2014.devfestne.com.br/cod/", text: "Código de Conduta"}
+
+# Blog
+blogTitle: "Últimas novidades"
+blogCommentsEnabled: true
+discusShortName: "devfestnordeste"
+
 
 # Speakers List Block
 showSessions: true
 thumbnailsFolder: /img/speakers/
 
-# Footer
-gplusFollowUsUrl: "https://plus.google.com/u/0/+DevfestneBr/"
-twitterFollowUsUrl: "https://twitter.com/DevfestNE"
-fbFollowUsUrl: "https://www.facebook.com/DevFestNE"
+# Team Block
+teamBlockTitle: "Sobre nós"
+aboutUs: "Ferramentas e produtos do Google se tornaram sinônimo de produtividade e desempenho no mundo online. O número de inovações tecnológicas e indústrias de TI em que o Google está criando novas ferramentas e produtos é enorme. É difícil conhecer todos eles. É por isso que as pessoas começaram a se reunir em pequenos grupos locais e partilharam a sua experiência com tais produtos. Mais tarde, os seguintes grupos foram chamados Grupos de Desenvolvedores do Google. GDGs podem assumir muitas formas - de apenas algumas pessoas que se juntam para assistir alguns vídeos, para grandes encontros com demonstrações, palestras técnicas, hackathons e conferências."
 
-# Blog
-blogCommentsEnabled: true
-discusShortName: "devfestnordeste"
+# Logistics Find Way Block
+findWayTitle: "Encontre seu caminho"
+logisticsMapCenterCoordinates: "-10.976712,-37.040825,17"
+logisticsMapMobileCenterCoordinates: "-10.976712,-37.040825,17"
+
+# Logistics Direction Details Block
+directionDetailsTitle: "Ande por Aracaju"
+directionDetailsCards:
+ - {title: "Do Aeroporto", information: 'O aeroporto é bem próximo. É facilmente acessível por carro, ônibus ou taxi. Mais informações estarão disponíveis em breve.'}
+ - {title: "De ônibus", information: 'Aracaju é uma cidade acessível. Qualquer dúvida, fale conosco.'}
+ - {title: "Hotéis", information: 'A Orla de Atalaia tem vários hotéis e pousadas disponíveis vizinho ao evento. Mais informações em breve'}
+directionDetailsWideCards: 
+ -
+  title: "Perguntas?"
+  subCards:
+   -
+    title: "Hotéis"
+    links:
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   - 
+    title: "Inscrições"
+    links:
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+   -
+    title: "Detalhes para participantes"
+    links:
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
+     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
+
