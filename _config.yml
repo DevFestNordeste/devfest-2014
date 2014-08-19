@@ -37,8 +37,8 @@ c4sponsorsUrl: "/blog/"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Agenda"}
- - {permalink: "/speakers/", text: "Palestrantes"}
+# - {permalink: "/schedule/", text: "Agenda"}
+# - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "Logística"}
  - {link: "https://developers.google.com", text: "Desenvolvedores"}
@@ -72,7 +72,7 @@ statisticBlock:
 latestNewsTitle: "Últimas notícias"
 
 # Rockstar Speakers Block
-rockstarSpeakersCount: 4
+rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Palestrantes rockstar"
 rockstarSpeakersButtonText: "Veja todos palestrantes"
 
@@ -112,7 +112,7 @@ organizersTitle: "Organizadores"
 # Subscribe Block
 subscribeTitle: "Inscreva-se para as novidades"
 subscribeAction: "http://devfestne.us8.list-manage.com/subscribe/post?u=89545d81cc2471a50c83a319d&amp;id=bc6da73bc8"
-subscribeInfo: "Inscrições estarão disponíveis em breve. O número de ingressos é limitado! Não perca a oportunidade."
+subscribeInfo: "Inscrições estarão disponíveis em breve. O número de ingressos é limitado! Não perca a oportunidade. O DevFest Nordeste não enviará spam ao seu email. Todas as comunicações serão sobre o evento."
 
 # Buy Tickets Block
 buyTicketsTitle: "Preços"
@@ -171,7 +171,7 @@ discusShortName: "devfestnordeste"
 
 
 # Speakers List Block
-showSessions: true
+showSessions: false#true
 thumbnailsFolder: /img/speakers/
 
 # Team Block
@@ -196,6 +196,7 @@ directionDetailsWideCards:
    -
     title: "Hotéis"
     links:
+     - {link: "https://plus.google.com/+GDGAracajuBlogspotBR/about", text: "GDG Aracaju"}
      #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
      #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
@@ -203,6 +204,7 @@ directionDetailsWideCards:
    - 
     title: "Inscrições"
     links:
+    - {link: "https://plus.google.com/+GDGAracajuBlogspotBR/about", text: "GDG Aracaju"}
      #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
      #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
@@ -210,6 +212,7 @@ directionDetailsWideCards:
    -
     title: "Detalhes para participantes"
     links:
+    - {link: "https://plus.google.com/+GDGAracajuBlogspotBR/about", text: "GDG Aracaju"}
      #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
      #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
      #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
