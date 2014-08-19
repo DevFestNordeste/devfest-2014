@@ -3,40 +3,21 @@
 	<div class="overlay solid-overlay"></div>
 	<div class="content-wrapper">
 		<div class="col-lg-10 col-lg-offset-1">
-			<div class="col-md-3 col-sm-3 col-xs-6">
-				<div class="counter animated hiding" data-animation="fadeInDown" data-delay="0">
-					<div class="stat"><span class="timer" data-from="0" data-to="250">250</span>+</div>
-					<div class="stat-info">Participantes</div>
+			{% assign animationDelay = 0 %}
+            {% for statistic in site.statisticBlock %}
+            {% assign colWidth = 12 | divided_by: forloop.length %}
+            <div class="col-md-{{ colWidth }} col-xs-6">  
+                <div class="counter animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                    <div class="stat"><span class="timer" data-from="0" data-to="{{ statistic.count}}">{{ statistic.count}}</span>{{ statistic.specialCharacter}}</div>
+					<div class="stat-info">{{ statistic.info}}</div>
 					<hr>
-					<p class="small">De todo Nordeste</p>
-				</div>
-			</div>
-			<div class="col-md-3 col-sm-3 col-xs-6">
-				<div class="counter animated hiding" data-animation="fadeInDown" data-delay="500">
-					<div class="stat"><span class="timer" data-from="0" data-to="24">24</span>+
-					</div>
-					<div class="stat-info">horas</div>
-					<hr>
-					<p class="small">de pura tecnologia Google</p>
-				</div>
-			</div>
-			<div class="col-md-3 col-sm-3 col-xs-6">
-				<div class="counter animated hiding" data-animation="fadeInDown" data-delay="1000">
-					<div class="stat"><span class="timer" data-from="0" data-to="15">15</span>+</div>
-					<div class="stat-info">Palestrantes</div>
-					<hr>
-					<p class="small">do Brasil</p>
-				</div>
-			</div>
-			<div class="col-md-3 col-sm-3 col-xs-6">
-				<div class="counter animated hiding" data-animation="fadeInDown" data-delay="1500">
-					<div class="stat"><span class="timer" data-from="0" data-to="3">3</span>
-					</div>
-					<div class="stat-info">conteúdos extras</div>
-					<hr>
-					<p class="small">além do auditório principal</p>
-				</div>
-			</div>
+					<p class="small">{{ statistic.detail}}</p>
+                </div>
+            </div>
+            {% assign animationDelay = animationDelay | plus:500 %}
+            {% assign check = forloop.index | modulo:2 %}
+            {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+            {% endfor %}
 		</div>
 	</div>
 </section>

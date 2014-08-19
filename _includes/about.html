@@ -2,30 +2,22 @@
 <section id="about" class="about">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
-            <h3>O que é {{site.eventName}}?</h3>
+            <h3>{{ site.aboutTitle }}</h3>
             <div class="row about-details">
-                <div class="col-md-4 col-sm-4 col-xs-6">
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="0">
-                        <h5>Conferência</h5>
-                        <img class="img-circle" src="{{ site.baseurl }}/img/conference.jpg" height="128" width="128" alt="Conference">
-                        <p>O maior evento do Nordeste relacionado ao Google cuidadosamente elaborado para você da comunidade GDG! Palestrantes impressionantes e muita diversão!</p>
+                {% assign animationDelay = 0 %}
+                {% for about in site.aboutBlock %}
+                {% assign colWidth = 12 | divided_by: forloop.length %}
+                <div class="col-md-{{ colWidth }} col-xs-6">  
+                    <div class="animated hiding" data-animation="fadeInDown" data-delay="{{ animationDelay }}">
+                        <h5>{{ about.title }}</h5>
+                        <img class="img-circle" src="{{ site.baseurl }}/img/{{ about.image }}" height="128" width="128" alt="{{ about.title }}">
+                        <p>{{ about.text }}</p>
                     </div>
                 </div>
-                <div class="col-md-4 col-sm-4 col-xs-6">
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="500">
-                        <h5>Workshops</h5>
-                        <img class="img-circle" src="{{ site.baseurl }}/img/workshop.jpg" height="128" width="128" alt="Workshops">
-                        <p>Dia inteiro de workshops, hands-on, hacking e debugging. Venha domar a sua tecnologia favorita!</p>
-                    </div>
-                </div>
-                <div class="clearfix visible-xs"></div>
-                <div class="col-md-4 col-sm-4 col-xs-6">
-                    <div class="animated hiding" data-animation="fadeInDown" data-delay="1000">
-                        <h5>Happy DevFest Hour</h5>
-                        <img class="img-circle" src="{{ site.baseurl }}/img/hackathon.jpg" height="128" width="128" alt="Hackathons">
-                        <p>Depois de um dia inteiro de conteúdos incríveis, é hora de socializar!</p>
-                    </div>
-                </div>
+                {% assign animationDelay = animationDelay | plus:500 %}
+                {% assign check = forloop.index | modulo:2 %}
+                {% if check == 0 %} <div class="clearfix visible-xs"></div> {% endif %}
+                {% endfor %}
             </div>
         </div>
     </div>
