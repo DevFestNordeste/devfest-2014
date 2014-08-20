@@ -10,18 +10,18 @@
 #  social:
 #    - {name: "google-plus", link: "https://plus.google.com/+BiancaXimenes/"}
 -
-#  id: 1
-#  name: "Breno"
-#  surname: "Moura"
-#  title: ""
-#  thumbnailUrl: BrenoMoura.jpg
-#  team: true
-#  ribbon:
-#    - {abbr: "GDG", title: "GDG Aracaju"}
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+BrenoMoura27/"}
-#    - {name: "twitter", link: "https://twitter.com/basmoura"}
-#    - {name: "github", link: "https://github.com/basmoura"}
+  id: 1
+  name: "Breno"
+  surname: "Moura"
+  title: ""
+  thumbnailUrl: BrenoMoura.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Aracaju"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+BrenoMoura27/"}
+    - {name: "twitter", link: "https://twitter.com/basmoura"}
+    - {name: "github", link: "https://github.com/basmoura"}
 -
   id: 2
   name: "Daniel"
