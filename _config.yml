@@ -31,7 +31,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "http://bit.ly/devfestne-call"
-c4sponsorsUrl: "/blog/"
+c4sponsorsUrl: "/blog/patrocinador/"
 
 # Navigation
 navigationLinks:
@@ -53,6 +53,7 @@ eventDate: "18 de outubro de 2014"
 typeoutTextValues: '"", "Nordeste", "Aracaju", "João Pessoa", "Fortaleza", "Recife", "Maceió", "Natal"'
 heroButtons:
  - {url: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
+ - {url: "http://2014.devfestne.com.br/blog/patrocinador/", text: "Seja um patrocinador"}
 
 # About Block
 aboutTitle: "Sobre GDG DevFest"
