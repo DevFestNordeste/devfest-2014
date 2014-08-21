@@ -1,38 +1,54 @@
+#- 
+#  id: 3
+#  name: "Modelo"
+#  surname: "Modelo"
+#  company: "Popcode"
+#  title: "Engenheiro Mobile"
+#  bio: "Profissional com mais de seis anos de experiência em TI. DevOP por natureza. Desenvolvedor do Arch Linux e de diversos aplicativos para iOS, incluindo apps bancários, frameworks para conferências e força de vendas.  Adora a arte de criar ótimas experiências no mobile, aliado a uma ótima trilha sonora. Pai, gamer e alguém que acredita num mundo melhor."
+#  thumbnailUrl: hugo.jpg
+#  rockstar: true
+#  ribbon: 
+#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
+#    - {name: "twitter", link: "https://twitter.com/mherych"}
 - 
-  id: 3
+  id: 1
   name: "Alê"
   surname: "Borba"
   company: "Google São Paulo"
   title: "Community Manager"
-  bio: "Mini Curriculo do Palestrante"
+  bio: "Community Manager focado em comunidades técnicas e de desenvolvedores. Trabalhando pesado para que todas essas comunidades cresçam. Além disso, um apaixonado por acessibilidade em geral, principalmente web, que realmente acredita que a tecnologia veio para ajudar cada vez mais as pessoas."
   thumbnailUrl: Ale_borba.jpg
   rockstar: true
+  ribbon: 
+    - {abbr: "Googler", title: "Googler", url: "https://plus.google.com/+Al%C3%AABorba/about"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+Al%C3%AABorba/posts"}
+    - {name: "google-plus", link: "https://plus.google.com/+Al%C3%AABorba/about"}
+    - {name: "twitter", link: "https://twitter.com/ale_borba"}
+    - {name: "github", link: "https://github.com/aleborba"}
+#- 
+#  id: 2
+#  name: "Joselito"
+#  surname: "Júnior"
+#  company: ""
+#  title: "Freelancer e criador de ideias malucas"
+#  bio: "Sou só um cara não muito normal, que quebra computadores e gosta de criar umas coisinhas que não necessariamente funcionam."
+#  thumbnailUrl: joselito.jpg
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/u/0/+JoselitoJúnior/"}
+#    - {name: "twitter", link: "http://www.twitter.com/joselitojunior1"}
+#    - {name: "github", link: "http://www.github.com/joselitojunior"}
 - 
-  id: 4
-  name: "Joselito"
-  surname: "Júnior"
-  company: "Estudante e ter umas ideias malucas e (as vezes) torná-las reais."
-  title: "Chrome apps"
-  bio: "Não sei muito bem o que escrever aqui. Sou só um cara não muito normal, que quebra computadores e gosta de criar umas coisinhas que não necessáriamente funcionam.Provavelmente tudo o que você quer (ou precisa) saber está espalhado por aqui."
-  thumbnailUrl: joselito.jpg
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+JoselitoJúnior/"}
-    # - {name: "twitter", link: "https://twitter.com/dmytrodanylyk"}
-    # - {name: "github", link: "https://github.com/dmytrodanylyk"}
-- 
-  id: 5
+  id: 3
   name: "Hugo"
   surname: "Doria"
   company: "Popcode"
-  title: "Linux, Devops, iOS Development, Python"
-  bio: "Mini Curriculo do Palestrante"
+  title: "Engenheiro Mobile"
+  bio: "Profissional com mais de seis anos de experiência em TI. DevOP por natureza. Desenvolvedor do Arch Linux e de diversos aplicativos para iOS, incluindo apps bancários, frameworks para conferências e força de vendas.  Adora a arte de criar ótimas experiências no mobile, aliado a uma ótima trilha sonora. Pai, gamer e alguém que acredita num mundo melhor."
   thumbnailUrl: hugo.jpg
-  rockstar: true
-  ribbon: 
-    # - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-    # - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
-    # - {name: "twitter", link: "https://twitter.com/mherych"}
+    - {name: "twitter", link: "http://twitter.com/hdoria"}
+    - {name: "github", link: "http://github.com/hdoria"}

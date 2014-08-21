@@ -2,10 +2,10 @@
   group: 'Patrocinador Platina'
   elements:
     - {name: 'Google', description: 'Google', link: 'https://www.google.com.ua/intl/en/about/', imageUrl: 'google.svg'}
-# -
-#   group: 'With support of'
-#   elements:
-#     - {name: 'Google', description: 'Google', link: 'https://www.google.com.ua/intl/en/about/', imageUrl: 'google.svg'}
+-
+  group: 'Apoio'
+  elements:
+    - {name: 'ANID', description: 'Associação Nacional para Inclusão Digital', link: 'http://www.anid.com.br/site/index.php/quem-somos.html', imageUrl: 'anid.svg'}
 #     - {name: 'GDG Lviv', description: 'GDG Lviv - Open and volunteer geek community', link: 'http://lviv.gdg.org.ua', imageUrl: 'gdg-lviv.svg'}
 #     - {name: 'GDG[x]', description: 'GDG[x] - Yeah, we can fix that', link: 'https://github.com/gdg-x', imageUrl: 'gdg-x.svg'}
 # -

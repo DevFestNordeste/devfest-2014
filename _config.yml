@@ -38,7 +38,7 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
 # - {permalink: "/schedule/", text: "Agenda"}
-# - {permalink: "/speakers/", text: "Palestrantes"}
+ - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "Logística"}
  - {link: "https://developers.google.com", text: "Desenvolvedores"}
@@ -73,7 +73,7 @@ statisticBlock:
 latestNewsTitle: "Últimas notícias"
 
 # Rockstar Speakers Block
-rockstarSpeakersCount: 2
+rockstarSpeakersCount: 1
 rockstarSpeakersTitle: "Palestrantes rockstar"
 rockstarSpeakersButtonText: "Veja todos palestrantes"
 
@@ -116,34 +116,35 @@ subscribeAction: "http://devfestne.us8.list-manage.com/subscribe/post?u=89545d81
 subscribeInfo: "Inscrições estarão disponíveis em breve. O número de ingressos é limitado! Não perca a oportunidade. O DevFest Nordeste não enviará spam ao seu email. Todas as comunicações serão sobre o evento."
 
 # Buy Tickets Block
-buyTicketsTitle: "Preços"
+buyTicketsTitle: "Inscrições"
 ticketsOffers:
  -
-  name: "1 day"
-  price: "$100"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  name: "Estudantes"
+  price: "R$ 25"
+  ribbon: "-50%"
+  #buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Disponíveis em breve"
+  ticketContentList: ["Forneça um comprovante", "Receba um ótimo desconto",""]
+  validFrom: "2014-08-26T10:00"
+  validThrough: "2014-10-10T23:59"
  -
-  name: "3 days"
-  price: "$180"
-  ribbon: "-20%"
+  name: "Early Bird"
+  price: "R$ 50"
   featured: true
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  #buyButtonLink: "http://doity.com.br/devfest-nordeste-2014"
+  buyButtonText: "Disponíveis em breve"
+  ticketContentList: ["Compre com antecedência", "Reserve seu ingresso", "E ganhe um brinde!"]
+  validFrom: "2014-08-26T10:00"
+  validThrough: "2014-09-08T23:59"
  -
-  name: "2 days"
-  price: "$150"
-  buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Buy Now"
-  ticketContentList: ["Lorem ipsum is simply", "Dummy text of the printing", "Typesetting industry"]
-  validFrom: "2014-08-20T10:00"
-  validThrough: "2014-10-23T23:59"
+  name: "Membros de GDG"
+  price: "R$ 40"
+  ribbon: "-20%"
+  #buyButtonLink: "http://dfua.ticketforevent.com/"
+  buyButtonText: "Disponíveis em breve"
+  ticketContentList: ["Membros de Google Developer Groups", "Recebem descontos!",""]
+  validFrom: "2014-08-26T10:00"
+  validThrough: "2014-10-10T23:59"
 
 # Footer
 socialLinks:
