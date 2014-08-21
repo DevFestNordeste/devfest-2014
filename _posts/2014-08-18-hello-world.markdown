@@ -23,4 +23,4 @@ mas nós já temos alguns confirmados:
 * **Nelson Glauber** - Android GDE e engenheiro de sistemas do C.E.S.A.R.<br>
 
 
-Mais detalhes sobre palestrantes, sessões e local irão aparecer em posts futuros. Por enquanto, nos curta no [Facebook](https://facebook.com/DevFestNE), siga no [Twitter](https://twitter.com/intent/user?screen_name=DevFestNE), adicione aos seus círculos no [Google+](google.com/+DevFestNEBR) ou inscreva-se na nossa [newsletter](http://devfestne.us8.list-manage.com/subscribe?u=89545d81cc2471a50c83a319d&id=bc6da73bc8) ou [feed RSS](http://2014.devfestne.com.br/feed.xml) para não perder nenhum detalhe sobre o evento.
+Mais detalhes sobre palestrantes, sessões e local irão aparecer em posts futuros. Por enquanto, nos curta no [Facebook](https://facebook.com/DevFestNE), siga no [Twitter](https://twitter.com/intent/user?screen_name=DevFestNE), adicione aos seus círculos no [Google+](http://google.com/+DevFestNEBR) ou inscreva-se na nossa [newsletter](http://devfestne.us8.list-manage.com/subscribe?u=89545d81cc2471a50c83a319d&id=bc6da73bc8) ou [feed RSS](http://2014.devfestne.com.br/feed.xml) para não perder nenhum detalhe sobre o evento.

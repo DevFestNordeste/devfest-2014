@@ -3,9 +3,9 @@
 #  name: "Modelo"
 #  surname: "Modelo"
 #  company: "Popcode"
-#  title: "Engenheiro Mobile"
-#  bio: "Profissional com mais de seis anos de experiência em TI. DevOP por natureza. Desenvolvedor do Arch Linux e de diversos aplicativos para iOS, incluindo apps bancários, frameworks para conferências e força de vendas.  Adora a arte de criar ótimas experiências no mobile, aliado a uma ótima trilha sonora. Pai, gamer e alguém que acredita num mundo melhor."
-#  thumbnailUrl: hugo.jpg
+#  title: "Engenheiro"
+#  bio: "Mini curriculo"
+#  thumbnailUrl: imagem.jpg
 #  rockstar: true
 #  ribbon: 
 #    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
@@ -40,15 +40,16 @@
 #    - {name: "google-plus", link: "https://plus.google.com/u/0/+JoselitoJúnior/"}
 #    - {name: "twitter", link: "http://www.twitter.com/joselitojunior1"}
 #    - {name: "github", link: "http://www.github.com/joselitojunior"}
-- 
-  id: 3
-  name: "Hugo"
-  surname: "Doria"
-  company: "Popcode"
-  title: "Engenheiro Mobile"
-  bio: "Profissional com mais de seis anos de experiência em TI. DevOP por natureza. Desenvolvedor do Arch Linux e de diversos aplicativos para iOS, incluindo apps bancários, frameworks para conferências e força de vendas.  Adora a arte de criar ótimas experiências no mobile, aliado a uma ótima trilha sonora. Pai, gamer e alguém que acredita num mundo melhor."
-  thumbnailUrl: hugo.jpg
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
-    - {name: "twitter", link: "http://twitter.com/hdoria"}
-    - {name: "github", link: "http://github.com/hdoria"}
+#- 
+#  id: 3
+#  name: "Hugo"
+#  surname: "Doria"
+#  company: "Popcode"
+#  title: "Engenheiro Mobile"
+#  bio: "Profissional com mais de seis anos de experiência em TI. DevOP por natureza. Desenvolvedor do Arch Linux e de diversos aplicativos para iOS, incluindo apps bancários, frameworks para conferências e força de vendas.  Adora a arte de criar ótimas experiências no mobile, aliado a uma ótima trilha sonora. Pai, gamer e alguém que acredita num mundo melhor."
+#  thumbnailUrl: hugo.jpg
+#  social: 
+#    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
+#    - {name: "twitter", link: "http://twitter.com/hdoria"}
+#    - {name: "github", link: "http://github.com/hdoria"}
+#

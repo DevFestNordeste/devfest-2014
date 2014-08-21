@@ -91,20 +91,20 @@
 #    - {name: "google-plus", link: "https://plus.google.com/+GustavoCostaW"}
 #    - {name: "twitter", link: "https://twitter.com/GustavoCostaW"}
 #    - {name: "github", link: "https://github.com/GustavoCostaW"}
-#-
-#  id: 7
-#  name: "Ivan"
-#  surname: "Santos"
-#  title: ""
-#  thumbnailUrl: IvanSantos.jpg
-#  team: true
-#  ribbon:
-#    - {abbr: "GDG", title: "GDG Maceió"}
-#  social:
-#    - {name: "google-plus", link: "https://google.com/+IvanSantosJr"}
-#    - {name: "twitter", link: "https://twitter.com/pragmaticivan"}
-#    - {name: "github", link: "https://github.com/pragmaticivan"}
-#    - {name: "site", link: "http://ivansjr.com.br/"}
+-
+  id: 7
+  name: "Ivan"
+  surname: "Santos"
+  title: ""
+  thumbnailUrl: IvanSantos.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Maceió"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+IvanSantosJr"}
+    - {name: "twitter", link: "https://twitter.com/pragmaticivan"}
+    - {name: "github", link: "https://github.com/pragmaticivan"}
+    - {name: "site", link: "http://ivansjr.com.br/"}
 -
   id: 8
   name: "Jacques"
