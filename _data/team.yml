@@ -78,19 +78,19 @@
     - {name: "twitter", link: "https://twitter.com/netonightmare"}
     - {name: "github", link: "https://github.com/netoeuler"}
     - {name: "site", link: "http://anarcomputero.wordpress.com/"}
-#-
-#  id: 6
-#  name: "Gustavo"
-#  surname: "Costa"
-#  title: ""
-#  thumbnailUrl: gustavocostaw.jpg
-#  team: true
-#  ribbon:
-#    - {abbr: "GDG", title: "GDG Maceió"}
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+GustavoCostaW"}
-#    - {name: "twitter", link: "https://twitter.com/GustavoCostaW"}
-#    - {name: "github", link: "https://github.com/GustavoCostaW"}
+-
+  id: 6
+  name: "Gustavo"
+  surname: "Costa"
+  title: ""
+  thumbnailUrl: gustavocostaw.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG Maceió"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+GustavoCostaW"}
+    - {name: "twitter", link: "https://twitter.com/GustavoCostaW"}
+    - {name: "github", link: "https://github.com/GustavoCostaW"}
 -
   id: 7
   name: "Ivan"
@@ -149,6 +149,19 @@
     - {name: "site", link: "http://caravanaweb.com.br"}
 -
   id: 11
+  name: "Ricardo"
+  surname: "Cavalcante"
+  title: ""
+  thumbnailUrl: RicardoCavalcante.jpg
+  team: true
+  ribbon:
+    - {abbr: "GDG", title: "GDG João Pessoa"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+RicardoCavalcanteJoaoPessoa"}
+    - {name: "github", link: "https://github.com/CavalcanteR"}
+    - {name: "site", link: "http://ricardocavalcante.com/"}
+-
+  id: 12
   name: "Roberto"
   surname: "Brandini"
   title: ""
@@ -162,7 +175,7 @@
     - {name: "github", link: "https://github.com/RobertoBrandini"}
     - {name: "site", link: "http://robertobrandini.wordpress.com/"}
 -
-  id: 12
+  id: 13
   name: "Rodrigo"
   surname: "Amaral"
   title: ""
@@ -176,7 +189,7 @@
     - {name: "github", link: "https://github.com/rodrigoamaral"}
     - {name: "site", link: "http://rodrigoamaral.net"}
 -
-  id: 13
+  id: 14
   name: "Silas"
   surname: "Limeira"
   title: ""
@@ -189,11 +202,4 @@
     - {name: "twitter", link: "https://twitter.com/silasid"}
     - {name: "github", link: "https://github.com/silasalis"}
     - {name: "site", link: "http://silaslimeira.com/"}
-
-
-
-
-
-
-
 
