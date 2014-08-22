@@ -8,10 +8,10 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME', '.gitignore']
 title: DevFest Nordeste 2014
 email: contato@devfestne.com.br
 description: "DevFest Nordeste é o maior evento de tecnologias Google do Nordeste"
-baseurl: ""
-url: "http://2014.devfestne.com.br"
-#baseurl: "/devfesth"
-#url: "http://erickmendonca.github.io"
+#baseurl: ""
+#url: "http://2014.devfestne.com.br"
+baseurl: "/devfesth"
+url: "http://erickmendonca.github.io"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-49492619-3"
 googleAnalyticsSiteUrl: "devfestne.com.br"

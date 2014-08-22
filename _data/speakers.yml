@@ -28,31 +28,34 @@
     - {name: "google-plus", link: "https://plus.google.com/+Al%C3%AABorba/about"}
     - {name: "twitter", link: "https://twitter.com/ale_borba"}
     - {name: "github", link: "https://github.com/aleborba"}
-#- 
-#  id: 2
-#  name: "Joselito"
-#  surname: "Júnior"
-#  company: ""
-#  title: "Freelancer e criador de ideias malucas"
-#  bio: "Sou só um cara não muito normal, que quebra computadores e gosta de criar umas coisinhas que não necessariamente funcionam."
-#  thumbnailUrl: joselito.jpg
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/+JoselitoJúnior/"}
-#    - {name: "twitter", link: "http://www.twitter.com/joselitojunior1"}
-#    - {name: "github", link: "http://www.github.com/joselitojunior"}
-#- 
-#  id: 3
-#  name: "Hugo"
-#  surname: "Doria"
-#  company: "Popcode"
-#  title: "Engenheiro Mobile"
-#  bio: "Profissional com mais de seis anos de experiência em TI. DevOP por natureza. Desenvolvedor do Arch Linux e de diversos aplicativos para iOS, incluindo apps bancários, frameworks para conferências e força de vendas.  Adora a arte de criar ótimas experiências no mobile, aliado a uma ótima trilha sonora. Pai, gamer e alguém que acredita num mundo melhor."
-#  thumbnailUrl: hugo.jpg
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
-#    - {name: "twitter", link: "http://twitter.com/hdoria"}
-#    - {name: "github", link: "http://github.com/hdoria"}
-#
+- 
+  id: 2
+  name: "Joselito"
+  surname: "Júnior"
+  title: "Freelancer e criador de ideias malucas"
+  bio: "Sou só um cara não muito normal, que quebra computadores e gosta de criar umas coisinhas que não necessariamente funcionam."
+  thumbnailUrl: joselito.jpg
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Recife", url: "http://gdgrecife.com/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JoselitoJúnior/"}
+    - {name: "twitter", link: "http://www.twitter.com/joselitojunior1"}
+    - {name: "github", link: "http://www.github.com/joselitojunior"}
+- 
+  id: 3
+  name: "Hugo"
+  surname: "Doria"
+  company: "Popcode"
+  title: "Engenheiro Mobile"
+  bio: "Profissional com mais de seis anos de experiência em TI. DevOP por natureza. Desenvolvedor do Arch Linux e de diversos aplicativos, incluindo apps bancários, frameworks para conferências e força de vendas.  Adora a arte de criar ótimas experiências no mobile, aliado a uma ótima trilha sonora. Pai, gamer e alguém que acredita num mundo melhor."
+  thumbnailUrl: hugo.jpg
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Aracaju", url: "http://gdgaracaju.com.br/"}
+  social: 
+    - {name: "site", link: "http://hdoria.me"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
+    - {name: "twitter", link: "http://twitter.com/hdoria"}
+    - {name: "github", link: "http://github.com/hdoria"}
 - 
   id: 4
   name: "Gustavo"
@@ -67,3 +70,15 @@
     - {name: "google-plus", link: "https://plus.google.com/+GustavoCostaW"}
     - {name: "twitter", link: "https://twitter.com/GustavoCostaW"}
     - {name: "github", link: "https://github.com/GustavoCostaW"}
+- 
+  id: 5
+  name: "Lucas"
+  surname: "Xavier"
+  thumbnailUrl: LucasXavier.jpg
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Aracaju", url: "http://www.gdgaracaju.com.br/2014/03/hands-on-desenvolvimento-de-apps-android.html"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+LucasXavierAS"}
+    - {name: "twitter", link: "https://twitter.com/lucasxavier"}
+    - {name: "facebook", link: "https://twitter.com/lucasxas"}
+    - {name: "github", link: "https://github.com/lucasxas"}
