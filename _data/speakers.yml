@@ -80,5 +80,25 @@
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+LucasXavierAS"}
     - {name: "twitter", link: "https://twitter.com/lucasxavier"}
-    - {name: "facebook", link: "https://twitter.com/lucasxas"}
+    - {name: "facebook", link: "https://facebook.com/lucasxas"}
     - {name: "github", link: "https://github.com/lucasxas"}
+- 
+  id: 6
+  name: "Abdala"
+  surname: "Cerqueira"
+  thumbnailUrl: AbdalaCerqueira.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/101508416102638452477"}
+    - {name: "github", link: "https://github.com/abdala"}
+- 
+  id: 7
+  name: "Jefersson"
+  surname: "Nathan"
+  thumbnailUrl: JeferssonNathan.jpg
+  ribbon: 
+    - {abbr: "PHP-SE", title: "Comunidade PHP de Sergipe", url: "http://phpse.net/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+JeferssonNathan"}
+    - {name: "twitter", link: "https://twitter.com/malukenho"}
+    - {name: "facebook", link: "https://facebook.com/malukenho"}
+    - {name: "github", link: "https://gist.github.com/malukenho"}

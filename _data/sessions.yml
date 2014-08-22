@@ -30,7 +30,7 @@
   subtype: presentation
   speakers: [1]
   language: pt-br
-  complexity: "iniciante"
+  complexity: "Básico"
 -
   id: 002
   title: "Criando aplicativos com HTML5 para Android usando o Chrome a seu favor"
@@ -46,7 +46,7 @@
   subtype: presentation
   speakers: [2]
   language: pt-br
-  complexity: "Básio"
+  complexity: "Básico"
 -
   id: 004 
   title: "Construindo Aplicativos Android de Alto Desempenho"
@@ -59,10 +59,13 @@
   id: 005
   title: "Aguardem mais detalhes"
   description: "Em breve divulgaremos mais atrações."
+#  title: "Websockets e você, tudo a ver"
+#  description: "Na web, no desktop e no mobile: uma abordagem básica sobre a utilização de websockets para construção de aplicações bidirecionais."
   subtype: presentation
-  #speakers: [3]
+  #speakers: [6]
   language: pt-br
   complexity: ":-)"
+#  complexity: "Básico"
 -
   id: 006
   title: "API-First: A 'Revolução Industrial' do Software"
@@ -73,11 +76,14 @@
   complexity: "Intermediário"
 -
   id: 007
+  #title: "PGAE: Um novo LAMP"
+  #description: "Uma fusão excitante entre Google App Engine e PHP. Entenda do ínicio ao fim, todos os processos necessários para configurar, manter, publicar e rodar sua aplicação nessa poderosa plataforma fornecida pelo Google. Veja as vantagens e desvantagens de usar o GAE para sua aplicação e aproveite o que há de melhor dessas duas tecnologias."
   title: "Aguardem mais detalhes"
   description: "Em breve divulgaremos mais atrações."
   subtype: presentation
-  #speakers: [3]
+  #speakers: [7]
   language: pt-br
+  #complexity: "Avançado"
   complexity: ":-)"
 -
   id: 009
