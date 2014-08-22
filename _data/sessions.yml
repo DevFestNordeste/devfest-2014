@@ -41,12 +41,14 @@
 #  complexity: "Intermediário"
 -
   id: 002
+  #title: "Criando aplicativos com HTML5 para Android usando o Chrome a seu favor"
+  #description: "Crie aplicativos performáticos com HTML5: serão demonstradas técnicas de como atingir uma boa performance com Single Page Apps testando em aparelhos Android, e o conceito de apps feitos com HTML5 e usando o Chrome Dev Tools a seu favor para debugar sua aplicação. Será mostrado o Cordova para construir seu aplicativo e com isso atingir também outras plataformas."
   title: "Aguardem mais detalhes"
   description: "Em breve divulgaremos mais atrações."
   subtype: presentation
-  #speakers: [3]
+  #speakers: [4]
   language: pt-br
-  complexity: ":-)"  
+  complexity: "Intermediário"  
 -
   id: 003 
 #  title: "Chrome Web Apps" #Joselito

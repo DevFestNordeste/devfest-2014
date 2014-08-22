@@ -53,3 +53,17 @@
 #    - {name: "twitter", link: "http://twitter.com/hdoria"}
 #    - {name: "github", link: "http://github.com/hdoria"}
 #
+- 
+  id: 4
+  name: "Gustavo"
+  surname: "Costa"
+  company: "Mobile Dev Group Maceió"
+  title: "Manager"
+  bio: "Um dos 100 BlackBerry Elite Members no mundo, palestrou em mais de 15 eventos pelo Brasil. PhoneGap Expert, já desenvolveu aplicativos para iOS, Android e BlackBerry. Participou de projetos internacionais, ganhou prêmios e venceu hackathons usando HTML5. Ama a Web e seus padrões, é contribuidor ativo no mundo Open Source, sendo criador do projeto FastGap."
+  thumbnailUrl: gustavocostaw.jpg
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Maceió", url: "https://plus.google.com/105591078626334574818/about"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+GustavoCostaW"}
+    - {name: "twitter", link: "https://twitter.com/GustavoCostaW"}
+    - {name: "github", link: "https://github.com/GustavoCostaW"}
