@@ -8,10 +8,10 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME', '.gitignore']
 title: DevFest Nordeste 2014
 email: contato@devfestne.com.br
 description: "DevFest Nordeste é o maior evento de tecnologias Google do Nordeste"
-baseurl: ""
-url: "http://2014.devfestne.com.br"
-#baseurl: "/devfesth"
-#url: "http://erickmendonca.github.io"
+#baseurl: ""
+#url: "http://2014.devfestne.com.br"
+baseurl: "/devfesth"
+url: "http://erickmendonca.github.io"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-49492619-3"
 googleAnalyticsSiteUrl: "devfestne.com.br"
@@ -39,10 +39,11 @@ c4sponsorsUrl: "/blog/patrocinador/"
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
-# - {permalink: "/schedule/", text: "Agenda"}
+ - {permalink: "/schedule/", text: "Agenda"}
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "Logística"}
+ - {permalink: "/#buy-tickets", text: "Inscrições"}
  - {link: "https://developers.google.com", text: "Desenvolvedores"}
 bottomNavigationLinks:
  - {link: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
@@ -54,7 +55,7 @@ heroTitle: "GDG DevFest <typeout> 2014"
 eventDate: "18 de outubro de 2014"
 typeoutTextValues: '"", "Nordeste", "Aracaju", "João Pessoa", "Fortaleza", "Recife", "Maceió"'
 heroButtons:
- - {url: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
+ #- {url: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
  - {url: "http://2014.devfestne.com.br/blog/patrocinador/", text: "Seja um patrocinador"}
 
 # About Block
@@ -67,7 +68,7 @@ aboutBlock:
 # Statistic Block
 statisticBlock:
  - {count: "250", specialCharacter: "+", info: "participantes", detail: "de todo Brasil"}
- - {count: "24", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
+ - {count: "12", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
  - {count: "15", specialCharacter: "+", info: "palestrantes", detail: "de todo Brasil"}
  - {count: "2", specialCharacter: "", info: "trilhas paralelas", detail: "mais lounge de entretenimento"}
 
@@ -124,8 +125,8 @@ ticketsOffers:
   name: "Estudantes"
   price: "R$ 25"
   ribbon: "-50%"
-  #buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Disponíveis em breve"
+  buyButtonLink: "https://doity.com.br/devfest-nordeste-2014"
+  buyButtonText: "Comprar"
   ticketContentList: ["Forneça um comprovante", "Receba um ótimo desconto",""]
   validFrom: "2014-08-26T10:00"
   validThrough: "2014-10-10T23:59"
@@ -133,8 +134,8 @@ ticketsOffers:
   name: "Early Bird"
   price: "R$ 50"
   featured: true
-  #buyButtonLink: "http://doity.com.br/devfest-nordeste-2014"
-  buyButtonText: "Disponíveis em breve"
+  buyButtonLink: "https://doity.com.br/devfest-nordeste-2014"
+  buyButtonText: "Compre agora!"
   ticketContentList: ["Compre com antecedência", "Reserve seu ingresso", "E ganhe um brinde!"]
   validFrom: "2014-08-26T10:00"
   validThrough: "2014-09-08T23:59"
@@ -142,15 +143,15 @@ ticketsOffers:
   name: "Membros de GDG"
   price: "R$ 40"
   ribbon: "-20%"
-  #buyButtonLink: "http://dfua.ticketforevent.com/"
-  buyButtonText: "Disponíveis em breve"
+  buyButtonLink: "https://doity.com.br/devfest-nordeste-2014"
+  buyButtonText: "Comprar"
   ticketContentList: ["Membros de Google Developer Groups", "Recebem descontos!",""]
   validFrom: "2014-08-26T10:00"
   validThrough: "2014-10-10T23:59"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/u/0/+DevfestneBr/", icon: "google-plus"}
+ - {link: "https://plus.google.com/u/0/+DevfestNEBR/", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=DevfestNE", icon: "twitter"}
  - {link: "https://facebook.com/DevFestNE", icon: "facebook"}
  - {link: "http://2014.devfestne.com.br/feed.xml", icon: "rss"}
@@ -175,7 +176,7 @@ discusShortName: "devfestnordeste"
 
 
 # Speakers List Block
-showSessions: false#true
+showSessions: true
 thumbnailsFolder: /img/speakers/
 
 # Team Block
