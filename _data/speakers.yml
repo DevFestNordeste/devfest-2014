@@ -20,7 +20,7 @@
   company: "Google São Paulo"
   title: "Community Manager"
   bio: "Community Manager focado em comunidades técnicas e de desenvolvedores. Trabalhando pesado para que todas essas comunidades cresçam. Além disso, um apaixonado por acessibilidade em geral, principalmente web, que realmente acredita que a tecnologia veio para ajudar cada vez mais as pessoas."
-  thumbnailUrl: Ale_borba.jpg
+  thumbnailUrl: AleBorba.jpg
   rockstar: true
   ribbon: 
     - {abbr: "Googler", title: "Googler", url: "https://plus.google.com/+Al%C3%AABorba/about"}
@@ -86,19 +86,37 @@
   id: 6
   name: "Abdala"
   surname: "Cerqueira"
+  bio: "Formado em Sistemas para Web, Pós-graduado em Sistemas Distribuídos e internet. Já treinou órgãos como MEC, Caixa Econômica Federal, Senado Federal, Stefanini IT, STF, TST entre outros. Atualmente é consultor e atua como coordenador do PHP-PB, grupo de usuários PHP da Paraíba."
   thumbnailUrl: AbdalaCerqueira.jpg
+  ribbon: 
+    - {abbr: "PHP-PB", title: "Grupo de Usuários PHP da Paraíba", url: "http://php-pb.net/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/101508416102638452477"}
+    - {name: "twitter", link: "https://twitter.com/abdalac"}
     - {name: "github", link: "https://github.com/abdala"}
 - 
   id: 7
   name: "Jefersson"
   surname: "Nathan"
   thumbnailUrl: JeferssonNathan.jpg
+  bio: "Líder e representante do Grupo de Usuários PHP do estado de Sergipe, onde trabalha para manter a comunidade local unida. Atualmente, trabalha em uma empresa com foco em soluções web e dedica seu tempo livre á contribuição com projetos Open Source."
   ribbon: 
-    - {abbr: "PHP-SE", title: "Comunidade PHP de Sergipe", url: "http://phpse.net/"}
+    - {abbr: "PHP-SE", title: "Grupo de Usuários PHP de Sergipe", url: "http://phpse.net/"}
   social: 
     - {name: "google-plus", link: "https://plus.google.com/+JeferssonNathan"}
     - {name: "twitter", link: "https://twitter.com/malukenho"}
     - {name: "facebook", link: "https://facebook.com/malukenho"}
     - {name: "github", link: "https://gist.github.com/malukenho"}
+- 
+  id: 8
+  name: "Alércio"
+  surname: "Bressano"
+  company: "GoLife Company"
+  title: "Consultor"
+  thumbnailUrl: AlercioBressano.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/118118398033515492422"}
+    - {name: "twitter", link: "https://twitter.com/alercio"}
+    - {name: "facebook", link: "http://www.facebook.com/golifecompany"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/alercio"}
+    - {name: "site", link: "http://alercio.com/"}

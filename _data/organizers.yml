@@ -5,5 +5,5 @@
     - {name: "Fortaleza", description: "GDG Fortaleza", link: "https://developers.google.com/groups/chapter/116566149088641717001/", imageUrl: "gdg-fortaleza.svg"}
     - {name: "João Pessoa", description: "GDG João Pessoa", link: "http://gdgjp.org.br/", imageUrl: "gdg-joao-pessoa.svg"}
     - {name: "Maceió", description: "GDG Maceió", link: "https://plus.google.com/105591078626334574818/about", imageUrl: "gdg-maceio.svg"}
-#    - {name: "Natal", description: "GDG Natal", link: "http://gdg-natal.blogspot.com.br/", imageUrl: "gdg-natal.svg"}
     - {name: "Recife", description: "GDG Recife", link: "http://www.gdgrecife.com/", imageUrl: "gdg-recife.svg"}
+    - {name: "Salvador", description: "GDG Salvador", link: "https://plus.google.com/109551746919819088573/posts", imageUrl: "gdg-salvador.svg"}

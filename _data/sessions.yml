@@ -57,15 +57,12 @@
   complexity: "Intermediário"
 -
   id: 005
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
-#  title: "Websockets e você, tudo a ver"
-#  description: "Na web, no desktop e no mobile: uma abordagem básica sobre a utilização de websockets para construção de aplicações bidirecionais."
+  title: "Websockets e você, tudo a ver"
+  description: "Na web, no desktop e no mobile: uma abordagem básica sobre a utilização de websockets para construção de aplicações bidirecionais."
   subtype: presentation
-  #speakers: [6]
+  speakers: [6]
   language: pt-br
-  complexity: ":-)"
-#  complexity: "Básico"
+  complexity: "Básico"
 -
   id: 006
   title: "API-First: A 'Revolução Industrial' do Software"
@@ -76,15 +73,20 @@
   complexity: "Intermediário"
 -
   id: 007
-  #title: "PGAE: Um novo LAMP"
-  #description: "Uma fusão excitante entre Google App Engine e PHP. Entenda do ínicio ao fim, todos os processos necessários para configurar, manter, publicar e rodar sua aplicação nessa poderosa plataforma fornecida pelo Google. Veja as vantagens e desvantagens de usar o GAE para sua aplicação e aproveite o que há de melhor dessas duas tecnologias."
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "PGAE: Um novo LAMP"
+  description: "Uma fusão excitante entre Google App Engine e PHP. Entenda do ínicio ao fim, todos os processos necessários para configurar, manter, publicar e rodar sua aplicação nessa poderosa plataforma fornecida pelo Google. Veja as vantagens e desvantagens de usar o GAE para sua aplicação e aproveite o que há de melhor dessas duas tecnologias."
   subtype: presentation
-  #speakers: [7]
+  speakers: [7]
   language: pt-br
-  #complexity: "Avançado"
-  complexity: ":-)"
+  complexity: "Avançado"
+-
+  id: 008
+  title: "Equipes autogerenciadas e meditação: como o Google gerencia seus projetos e sua produtividade"
+  description: "Nesta sessão, os participantes irão conhecer um pouco mais sobre como o Google gerencia seus projetos e lidera suas equipes para alcançar melhores resultados. Quais os princípios de um gerente no Google e como eles são vistos pelos engenheiros? Além das práticas que favorecem o autogerenciamento de seus times, serão abordados detalhes do programa de meditação implantado no Google por um engenheiro da China e como a ideia do 'não fazer nada' e trabalhar menos tem proporcionado maiores ganhos de produtividade nos times."
+  subtype: presentation
+  speakers: [8]
+  language: pt-br
+  complexity: "Básico"
 -
   id: 009
   title: "Aguardem mais detalhes"
