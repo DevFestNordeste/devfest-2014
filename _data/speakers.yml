@@ -120,3 +120,27 @@
     - {name: "facebook", link: "http://www.facebook.com/golifecompany"}
     - {name: "linkedin", link: "http://www.linkedin.com/in/alercio"}
     - {name: "site", link: "http://alercio.com/"}
+- 
+  id: 9
+  name: "Renzo"
+  surname: "Nuccitelli"
+  company: "Python Pro"
+  title: "Software Engineer"
+  bio: "Engenheiro de Computação formado pelo ITA. Especialista em programação web no Google App Engine, usa Python desde 2009. Foi Diretor de Tecnologia na startup de educação QMagico, Apaixonado por dar aulas, é professor da Fatec."
+  thumbnailUrl: RenzoNuccitelli.jpg
+  social: 
+    - {name: "google-plus", link: "http://plus.google.com/+RenzoNuccitelli"}
+    - {name: "twitter", link: "https://twitter.com/renzonuccitec"}
+    - {name: "github", link: "http://github.com/renzon"}
+- 
+  id: 10
+  name: "Silas"
+  surname: "Limeira"
+  thumbnailUrl: SilasLimeira.jpg
+  ribbon:
+    - {abbr: "GDG", title: "GDG João Pessoa", url: "http://gdgjp.org.br/"}
+  social:
+    - {name: "google-plus", link: "https://google.com/+SILASMONTEIRO"}
+    - {name: "twitter", link: "https://twitter.com/silasid"}
+    - {name: "github", link: "https://github.com/silasalis"}
+    - {name: "site", link: "http://silaslimeira.com/"}
