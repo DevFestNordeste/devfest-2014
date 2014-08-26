@@ -46,7 +46,7 @@ navigationLinks:
  - {permalink: "/#buy-tickets", text: "Inscrições"}
  - {link: "https://developers.google.com", text: "Desenvolvedores"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
+# - {link: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
 rightNavigationButtons:
  - {link: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
 
@@ -211,4 +211,3 @@ directionDetailsWideCards:
     title: "Detalhes para participantes"
     links:
     - {link: "https://plus.google.com/+GDGAracajuBlogspotBR/about", text: "GDG Aracaju"}
-
