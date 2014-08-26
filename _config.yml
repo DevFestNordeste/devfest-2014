@@ -77,7 +77,7 @@ statisticBlock:
 latestNewsTitle: "Últimas notícias"
 
 # Rockstar Speakers Block
-rockstarSpeakersCount: 2
+rockstarSpeakersCount: 3
 rockstarSpeakersTitle: "Palestrantes rockstar"
 rockstarSpeakersButtonText: "Veja todos palestrantes"
 
@@ -117,7 +117,7 @@ organizersTitle: "Organizadores"
 # Subscribe Block
 subscribeTitle: "Inscreva-se para as novidades"
 subscribeAction: "http://devfestne.us8.list-manage.com/subscribe/post?u=89545d81cc2471a50c83a319d&amp;id=bc6da73bc8"
-subscribeInfo: "Inscrições estarão disponíveis em breve. O número de ingressos é limitado! Não perca a oportunidade. O DevFest Nordeste não enviará spam ao seu email. Todas as comunicações serão sobre o evento."
+subscribeInfo: "O DevFest Nordeste não enviará spam ao seu email. Todas as comunicações serão sobre o evento."
 
 # Buy Tickets Block
 buyTicketsTitle: "Inscrições"
