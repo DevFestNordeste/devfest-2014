@@ -1,18 +1,28 @@
-#- 
-#  id: 3
-#  name: "Modelo"
-#  surname: "Modelo"
-#  company: "Popcode"
-#  title: "Engenheiro"
-#  bio: "Mini curriculo"
-#  thumbnailUrl: imagem.jpg
-#  rockstar: true
-#  ribbon: 
-#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
-#    - {name: "twitter", link: "https://twitter.com/mherych"}
+- 
+  id: 6
+  name: "Abdala"
+  surname: "Cerqueira"
+  bio: "Formado em Sistemas para Web, Pós-graduado em Sistemas Distribuídos e internet. Já treinou órgãos como MEC, Caixa Econômica Federal, Senado Federal, Stefanini IT, STF, TST entre outros. Atualmente é consultor e atua como coordenador do PHP-PB, grupo de usuários PHP da Paraíba."
+  thumbnailUrl: AbdalaCerqueira.jpg
+  ribbon: 
+    - {abbr: "PHP-PB", title: "Grupo de Usuários PHP da Paraíba", url: "http://php-pb.net/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/101508416102638452477"}
+    - {name: "twitter", link: "https://twitter.com/abdalac"}
+    - {name: "github", link: "https://github.com/abdala"}
+- 
+  id: 8
+  name: "Alércio"
+  surname: "Bressano"
+  company: "GoLife Company"
+  title: "Consultor"
+  thumbnailUrl: AlercioBressano.jpg
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/118118398033515492422"}
+    - {name: "twitter", link: "https://twitter.com/alercio"}
+    - {name: "facebook", link: "http://www.facebook.com/golifecompany"}
+    - {name: "linkedin", link: "http://www.linkedin.com/in/alercio"}
+    - {name: "site", link: "http://alercio.com/"}
 - 
   id: 1
   name: "Alê"
@@ -29,18 +39,19 @@
     - {name: "twitter", link: "https://twitter.com/ale_borba"}
     - {name: "github", link: "https://github.com/aleborba"}
 - 
-  id: 2
-  name: "Joselito"
-  surname: "Júnior"
-  title: "Freelancer e criador de ideias malucas"
-  bio: "Sou só um cara não muito normal, que quebra computadores e gosta de criar umas coisinhas que não necessariamente funcionam."
-  thumbnailUrl: joselito.jpg
+  id: 4
+  name: "Gustavo"
+  surname: "Costa"
+  company: "Mobile Dev Group Maceió"
+  title: "Manager"
+  bio: "Um dos 100 BlackBerry Elite Members no mundo, palestrou em mais de 15 eventos pelo Brasil. PhoneGap Expert, já desenvolveu aplicativos para iOS, Android e BlackBerry. Participou de projetos internacionais, ganhou prêmios e venceu hackathons usando HTML5. Ama a Web e seus padrões, é contribuidor ativo no mundo Open Source, sendo criador do projeto FastGap."
+  thumbnailUrl: gustavocostaw.jpg
   ribbon: 
-    - {abbr: "GDG", title: "GDG Recife", url: "http://gdgrecife.com/"}
+    - {abbr: "GDG", title: "GDG Maceió", url: "https://plus.google.com/105591078626334574818/about"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+JoselitoJúnior/"}
-    - {name: "twitter", link: "http://www.twitter.com/joselitojunior1"}
-    - {name: "github", link: "http://www.github.com/joselitojunior"}
+    - {name: "google-plus", link: "https://plus.google.com/+GustavoCostaW"}
+    - {name: "twitter", link: "https://twitter.com/GustavoCostaW"}
+    - {name: "github", link: "https://github.com/GustavoCostaW"}
 - 
   id: 3
   name: "Hugo"
@@ -57,44 +68,6 @@
     - {name: "twitter", link: "http://twitter.com/hdoria"}
     - {name: "github", link: "http://github.com/hdoria"}
 - 
-  id: 4
-  name: "Gustavo"
-  surname: "Costa"
-  company: "Mobile Dev Group Maceió"
-  title: "Manager"
-  bio: "Um dos 100 BlackBerry Elite Members no mundo, palestrou em mais de 15 eventos pelo Brasil. PhoneGap Expert, já desenvolveu aplicativos para iOS, Android e BlackBerry. Participou de projetos internacionais, ganhou prêmios e venceu hackathons usando HTML5. Ama a Web e seus padrões, é contribuidor ativo no mundo Open Source, sendo criador do projeto FastGap."
-  thumbnailUrl: gustavocostaw.jpg
-  ribbon: 
-    - {abbr: "GDG", title: "GDG Maceió", url: "https://plus.google.com/105591078626334574818/about"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+GustavoCostaW"}
-    - {name: "twitter", link: "https://twitter.com/GustavoCostaW"}
-    - {name: "github", link: "https://github.com/GustavoCostaW"}
-- 
-  id: 5
-  name: "Lucas"
-  surname: "Xavier"
-  thumbnailUrl: LucasXavier.jpg
-  ribbon: 
-    - {abbr: "GDG", title: "GDG Aracaju", url: "http://www.gdgaracaju.com.br/2014/03/hands-on-desenvolvimento-de-apps-android.html"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+LucasXavierAS"}
-    - {name: "twitter", link: "https://twitter.com/lucasxavier"}
-    - {name: "facebook", link: "https://facebook.com/lucasxas"}
-    - {name: "github", link: "https://github.com/lucasxas"}
-- 
-  id: 6
-  name: "Abdala"
-  surname: "Cerqueira"
-  bio: "Formado em Sistemas para Web, Pós-graduado em Sistemas Distribuídos e internet. Já treinou órgãos como MEC, Caixa Econômica Federal, Senado Federal, Stefanini IT, STF, TST entre outros. Atualmente é consultor e atua como coordenador do PHP-PB, grupo de usuários PHP da Paraíba."
-  thumbnailUrl: AbdalaCerqueira.jpg
-  ribbon: 
-    - {abbr: "PHP-PB", title: "Grupo de Usuários PHP da Paraíba", url: "http://php-pb.net/"}
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/101508416102638452477"}
-    - {name: "twitter", link: "https://twitter.com/abdalac"}
-    - {name: "github", link: "https://github.com/abdala"}
-- 
   id: 7
   name: "Jefersson"
   surname: "Nathan"
@@ -108,18 +81,47 @@
     - {name: "facebook", link: "https://facebook.com/malukenho"}
     - {name: "github", link: "https://gist.github.com/malukenho"}
 - 
-  id: 8
-  name: "Alércio"
-  surname: "Bressano"
-  company: "GoLife Company"
-  title: "Consultor"
-  thumbnailUrl: AlercioBressano.jpg
+  id: 2
+  name: "Joselito"
+  surname: "Júnior"
+  title: "Freelancer e criador de ideias malucas"
+  bio: "Sou só um cara não muito normal, que quebra computadores e gosta de criar umas coisinhas que não necessariamente funcionam."
+  thumbnailUrl: joselito.jpg
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Recife", url: "http://gdgrecife.com/"}
   social: 
-    - {name: "google-plus", link: "https://plus.google.com/118118398033515492422"}
-    - {name: "twitter", link: "https://twitter.com/alercio"}
-    - {name: "facebook", link: "http://www.facebook.com/golifecompany"}
-    - {name: "linkedin", link: "http://www.linkedin.com/in/alercio"}
-    - {name: "site", link: "http://alercio.com/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JoselitoJúnior/"}
+    - {name: "twitter", link: "http://www.twitter.com/joselitojunior1"}
+    - {name: "github", link: "http://www.github.com/joselitojunior"}
+- 
+  id: 5
+  name: "Lucas"
+  surname: "Xavier"
+  thumbnailUrl: LucasXavier.jpg
+  ribbon: 
+    - {abbr: "GDG", title: "GDG Aracaju", url: "http://www.gdgaracaju.com.br/2014/03/hands-on-desenvolvimento-de-apps-android.html"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+LucasXavierAS"}
+    - {name: "twitter", link: "https://twitter.com/lucasxavier"}
+    - {name: "facebook", link: "https://facebook.com/lucasxas"}
+    - {name: "github", link: "https://github.com/lucasxas"}
+- 
+  id: 11
+  name: "Nelson"
+  surname: "Glauber"
+  company: "C.E.S.A.R."
+  title: "System Enginner"
+  bio: "Google Developer Expert de Android nomeado pelo Google em 2014. Trabalhando desde 2006 com mobile, desenvolvendo jogos e aplicativos. Mestrado em Engenharia de Software na CESAR.edu. Professor de desenvolvimento mobile em cursos de graduação e pós-graduação."
+  thumbnailUrl: NelsonGlauber.jpg
+  rockstar: true
+  ribbon: 
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+NelsonGlauber/posts"}
+    - {name: "github", link: "https://github.com/nglauber"}
+    - {name: "twitter", link: "https://twitter.com/nglauber"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/nglaubervasc"}
+    - {name: "site", link: "http://nglauber.blogspot.com.br/"}
 - 
   id: 9
   name: "Renzo"
@@ -144,21 +146,6 @@
     - {name: "twitter", link: "https://twitter.com/silasid"}
     - {name: "github", link: "https://github.com/silasalis"}
     - {name: "site", link: "http://silaslimeira.com/"}
-#- 
-#  id: 11
-#  name: "Modelo"
-#  surname: "Modelo"
-#  company: "Popcode"
-#  title: "Engenheiro"
-#  bio: "Mini curriculo"
-#  thumbnailUrl: imagem.jpg
-#  rockstar: true
-#  ribbon: 
-#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#  social: 
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
-#    - {name: "twitter", link: "https://twitter.com/mherych"}
 #- 
 #  id: 12
 #  name: "Modelo"
