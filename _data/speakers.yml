@@ -131,6 +131,7 @@
   title: "Software Engineer"
   bio: "Engenheiro de Computação formado pelo ITA. Especialista em programação web no Google App Engine, usa Python desde 2009. Foi Diretor de Tecnologia na startup de educação QMagico, Apaixonado por dar aulas, é professor da Fatec."
   thumbnailUrl: RenzoNuccitelli.jpg
+  rockstar: true
   social:
     - {name: "google-plus", link: "http://plus.google.com/+RenzoNuccitelli"}
     - {name: "twitter", link: "https://twitter.com/renzonuccitec"}
