@@ -8,11 +8,11 @@
   timeslots:
     - {
     	startTime: "08:00",
-    	endTime: "08:30",
+    	endTime: "08:20",
     	sessionIds: [100]
     }
     - {
-        startTime: "08:30",
+        startTime: "08:20",
         endTime: "09:00",
         sessionIds: [101]
     }

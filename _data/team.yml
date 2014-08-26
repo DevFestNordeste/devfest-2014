@@ -1,23 +1,11 @@
-﻿#-
-#  id: 0
-#  name: "Bianca"
-#  surname: "Ximendes"
-#  title: ""
-#  thumbnailUrl: BiancaXimendes.jpg
-#  team: true
-#  ribbon:
-#    - {abbr: "GDG", title: "GDG Recife"}
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/+BiancaXimenes/"}
--
+﻿-
   id: 1
   name: "Breno"
   surname: "Moura"
   title: ""
   thumbnailUrl: BrenoMoura.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Aracaju"}
+  subTeam: true
+  title: "GDG Aracaju"
   social:
     - {name: "google-plus", link: "https://plus.google.com/+BrenoMoura27/"}
     - {name: "twitter", link: "https://twitter.com/basmoura"}
@@ -29,8 +17,7 @@
   title: ""
   thumbnailUrl: DanielCastro.png
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Fortaleza"}
+  title: "GDG Fortaleza"
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DanielCastro23/"}
     - {name: "twitter", link: "https://twitter.com/dancasttro"}
@@ -43,8 +30,7 @@
   title: ""
   thumbnailUrl: EliasdeOliveira.jpg
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Fortaleza"}
+  title: "GDG Fortaleza"
   social:
     - {name: "google-plus", link: "https://plus.google.com/+EliasDeOliveirafaeliaso/"}
     - {name: "twitter", link: "https://twitter.com/faeliaso"}
@@ -57,8 +43,7 @@
   title: ""
   thumbnailUrl: ErickMendonca.jpg
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Aracaju"}
+  title: "GDG Aracaju"
   social:
     - {name: "google-plus", link: "https://google.com/+ErickMendonca"}
     - {name: "twitter", link: "https://twitter.com/erickmagnus"}
@@ -71,8 +56,7 @@
   title: ""
   thumbnailUrl: EulerNeto.jpg
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Aracaju"}
+  title: "GDG Aracaju"
   social:
     - {name: "google-plus", link: "https://google.com/+EulerNetoNgt"}
     - {name: "twitter", link: "https://twitter.com/netonightmare"}
@@ -84,9 +68,8 @@
   surname: "Costa"
   title: ""
   thumbnailUrl: gustavocostaw.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Maceió"}
+  subTeam: true
+  title: "GDG Maceió"
   social:
     - {name: "google-plus", link: "https://plus.google.com/+GustavoCostaW"}
     - {name: "twitter", link: "https://twitter.com/GustavoCostaW"}
@@ -97,9 +80,8 @@
   surname: "Santos"
   title: ""
   thumbnailUrl: IvanSantos.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Maceió"}
+  subTeam: true
+  title: "GDG Maceió"
   social:
     - {name: "google-plus", link: "https://google.com/+IvanSantosJr"}
     - {name: "twitter", link: "https://twitter.com/pragmaticivan"}
@@ -111,9 +93,8 @@
   surname: "Belmont"
   title: ""
   thumbnailUrl: JacquesBelmont.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG João Pessoa"}
+  subTeam: true
+  title: "GDG João Pessoa"
   social:
     - {name: "google-plus", link: "https://google.com/+jacquesbelmont"}
     - {name: "twitter", link: "https://twitter.com/jacques_belmont"}
@@ -125,9 +106,8 @@
   surname: "Júnior"
   title: ""
   thumbnailUrl: joselito.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Recife"}
+  subTeam: true
+  title: "GDG Recife"
   social:
     - {name: "google-plus", link: "https://google.com/+JoselitoJúnior"}
     - {name: "twitter", link: "https://twitter.com/joselitojunior1"}
@@ -139,9 +119,8 @@
   surname: "P. A. Filho"
   title: ""
   thumbnailUrl: JuarezFilho.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Maceió"}
+  subTeam: true
+  title: "GDG Maceió"
   social:
     - {name: "google-plus", link: "https://google.com/+JuarezPAFilho"}
     - {name: "twitter", link: "https://twitter.com/juarezpaf"}
@@ -153,9 +132,8 @@
   surname: "Cavalcante"
   title: ""
   thumbnailUrl: RicardoCavalcante.jpg
-  team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG João Pessoa"}
+  subTeam: true
+  title: "GDG João Pessoa"
   social:
     - {name: "google-plus", link: "https://plus.google.com/u/0/+RicardoCavalcanteJoaoPessoa"}
     - {name: "github", link: "https://github.com/CavalcanteR"}
@@ -167,8 +145,7 @@
   title: ""
   thumbnailUrl: RobertoBrandini.jpg
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG Aracaju"}
+  title: "GDG Aracaju"
   social:
     - {name: "google-plus", link: "https://google.com/+RobertoBrandini"}
     - {name: "twitter", link: "https://twitter.com/RobertoBrandini"}
@@ -180,9 +157,8 @@
   surname: "Amaral"
   title: ""
   thumbnailUrl: RodrigoAmaral.jpg
-  team: true
-  ribbon:
-    - {abbr: "PUG-SE", title: "PUG Sergipe"}
+  subTeam: true
+  title: "PUG Sergipe"
   social:
     - {name: "google-plus", link: "https://google.com/+RodrigoAmaral"}
     - {name: "twitter", link: "https://twitter.com/rodrigoamaral"}
@@ -195,8 +171,7 @@
   title: ""
   thumbnailUrl: SilasLimeira.jpg
   team: true
-  ribbon:
-    - {abbr: "GDG", title: "GDG João Pessoa"}
+  title: "GDG João Pessoa"
   social:
     - {name: "google-plus", link: "https://google.com/+SILASMONTEIRO"}
     - {name: "twitter", link: "https://twitter.com/silasid"}

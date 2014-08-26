@@ -5,9 +5,12 @@
   service: true
 -
   id: 101
-  title: "Abertura"
+  title: "Abertura: Android L, Wear e Google I/O 2014"
   place: "Salão Principal"
-  service: true
+  subtype: presentation
+  speakers: [11]
+  language: pt-br
+  complexity: "Básico"
 -
   id: 102
   title: "Almoço"

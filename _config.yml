@@ -8,10 +8,10 @@ exclude: ['/automation/', 'README.md', 'LICENCE.txt', 'CNAME', '.gitignore']
 title: DevFest Nordeste 2014
 email: contato@devfestne.com.br
 description: "DevFest Nordeste é o maior evento de tecnologias Google do Nordeste"
-#baseurl: ""
-#url: "http://2014.devfestne.com.br"
-baseurl: "/devfesth"
-url: "http://erickmendonca.github.io"
+baseurl: ""
+url: "http://2014.devfestne.com.br"
+#baseurl: "/devfesth"
+#url: "http://erickmendonca.github.io"
 permalink: /blog/:title
 googleAnalyticsTrackingId: "UA-49492619-3"
 googleAnalyticsSiteUrl: "devfestne.com.br"
@@ -57,6 +57,7 @@ typeoutTextValues: '"", "Nordeste", "Aracaju", "João Pessoa", "Fortaleza", "Rec
 heroButtons:
  #- {url: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
  - {url: "http://2014.devfestne.com.br/blog/patrocinador/", text: "Seja um patrocinador"}
+ - {url: "https://doity.com.br/devfest-nordeste-2014", text: "Inscreva-se!"}
 
 # About Block
 aboutTitle: "Sobre GDG DevFest"
@@ -76,7 +77,7 @@ statisticBlock:
 latestNewsTitle: "Últimas notícias"
 
 # Rockstar Speakers Block
-rockstarSpeakersCount: 1
+rockstarSpeakersCount: 2
 rockstarSpeakersTitle: "Palestrantes rockstar"
 rockstarSpeakersButtonText: "Veja todos palestrantes"
 
@@ -167,7 +168,7 @@ footerBlocks:
  -
   title: "FAQ"
   links:
-   - {permalink: "http://2014.devfestne.com.br/cod/", text: "Código de Conduta"}
+   - {permalink: "/cod/", text: "Código de Conduta"}
 
 # Blog
 blogTitle: "Últimas novidades"
@@ -202,24 +203,12 @@ directionDetailsWideCards:
     title: "Hotéis"
     links:
      - {link: "https://plus.google.com/+GDGAracajuBlogspotBR/about", text: "GDG Aracaju"}
-     #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    - 
     title: "Inscrições"
     links:
     - {link: "https://plus.google.com/+GDGAracajuBlogspotBR/about", text: "GDG Aracaju"}
-     #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
    -
     title: "Detalhes para participantes"
     links:
     - {link: "https://plus.google.com/+GDGAracajuBlogspotBR/about", text: "GDG Aracaju"}
-     #- {link: "https://plus.google.com/b/102444623953913144164", text: "InterContinental"}
-     #- {link: "https://plus.google.com/b/102444623953913144164", text: "The Hotel Rex"}
-     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Westin Market Street"}
-     #- {link: "https://plus.google.com/b/102444623953913144164", text: "Hotel Adagio"}
 
