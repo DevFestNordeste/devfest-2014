@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Inscrições abertas!"
-date:   2014-08-26 08:00:00
+date:   2014-08-26 11:00:00
 isStaticPost: false
 ---
 

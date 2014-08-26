@@ -91,20 +91,20 @@
   complexity: "Básico"
 -
   id: 009
-  title: "Programando em Hackathons com Google App Engine"
-  description: "Dicas sobre programação em Hackathons utilizando Google App Engine. Exemplo prático com a construção de uma app simples durante a própria apresentação."
-  subtype: presentation
-  speakers: [9]
-  language: pt-br
-  complexity: "Básico"
--
-  id: 010
   title: "Android: na sua sala e no seu pulso"
   description: ""
   subtype: presentation
   speakers: [10]
   language: pt-br
   complexity: "Intermediário"
+-
+  id: 010
+  title: "Programando em Hackathons com Google App Engine"
+  description: "Dicas sobre programação em Hackathons utilizando Google App Engine. Exemplo prático com a construção de uma app simples durante a própria apresentação."
+  subtype: presentation
+  speakers: [9]
+  language: pt-br
+  complexity: "Básico"
 -
   id: 011
   title: "Aguardem mais detalhes"

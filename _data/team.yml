@@ -106,7 +106,7 @@
   surname: "Júnior"
   title: ""
   thumbnailUrl: joselito.jpg
-  subTeam: true
+  team: true
   title: "GDG Recife"
   social:
     - {name: "google-plus", link: "https://google.com/+JoselitoJúnior"}
