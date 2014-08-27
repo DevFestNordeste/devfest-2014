@@ -48,7 +48,7 @@ navigationLinks:
 bottomNavigationLinks:
 # - {link: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
 rightNavigationButtons:
- - {link: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
+# - {link: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
 
 # Hero Block
 heroTitle: "GDG DevFest <typeout> 2014"
