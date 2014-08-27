@@ -107,12 +107,12 @@
   complexity: "Básico"
 -
   id: 011
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Google Compute Engine: Uma Introdução"
+  description: "Nessa palestra vamos mostrar os principais recursos da Infra-estrutura como serviço(IaaS) do Google de forma prática através de demos. Falaremos sobre servidores, storage, balanceadores de carga, entre outros."
   subtype: presentation
-  #speakers: [3]
+  speakers: [12]
   language: pt-br
-  complexity: ":-)"
+  complexity: "Básico"
 -
   id: 013
   title: "Aguardem mais detalhes"

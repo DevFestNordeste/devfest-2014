@@ -140,6 +140,8 @@
   id: 10
   name: "Silas"
   surname: "Limeira"
+  title: "Mobile Developer"
+  bio: "Bacherelando em Engenharia da Computação. Silas Limeira é desenvolvedor Mobile Freelancer. Participante ativo de eventos e hackathons, considera-se um entusiasta tecnológico e apoia 100% ações sociais como a Inclusão Digital."
   thumbnailUrl: SilasLimeira.jpg
   ribbon:
     - {abbr: "GDG", title: "GDG João Pessoa", url: "http://gdgjp.org.br/"}
@@ -148,21 +150,20 @@
     - {name: "twitter", link: "https://twitter.com/silasid"}
     - {name: "github", link: "https://github.com/silasalis"}
     - {name: "site", link: "http://silaslimeira.com/"}
-#-
-#  id: 12
-#  name: "Modelo"
-#  surname: "Modelo"
-#  company: "Popcode"
-#  title: "Engenheiro"
-#  bio: "Mini curriculo"
-#  thumbnailUrl: imagem.jpg
-#  rockstar: true
-#  ribbon:
-#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
-#    - {name: "twitter", link: "https://twitter.com/mherych"}
+-
+  id: 12
+  name: "José"
+  surname: "Papo"
+  company: "Google"
+  title: "Developer Relations Program Manager"
+  bio: "José Papo é Developer Relations Program Manager no Google. Também já trabalhou na Amazon (AWS) e na Microsoft. É desenvolvedor de software, evangelista de novas tecnologias e mestre em engenharia da computação pelo IPT. Também atua como professor de pós-graduação na PUC-SP. Fala sobre tendências tecnológicas, computação em nuvem, agilidade, inovação e desenvolvimento de produtos em seu twitter @josepapo"
+  thumbnailUrl: JosePapo.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Googler", title: "Googler", url: "https://plus.google.com/106855131320816130150/about"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106855131320816130150/posts"}
+    - {name: "twitter", link: "https://twitter.com/josepapo"}
 #-
 #  id: 13
 #  name: "Modelo"
@@ -170,7 +171,7 @@
 #  company: "Popcode"
 #  title: "Engenheiro"
 #  bio: "Mini curriculo"
-#  thumbnailUrl: imagem.jpg
+#  thumbnailUrl: imagem.jpg.
 #  rockstar: true
 #  ribbon:
 #    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
