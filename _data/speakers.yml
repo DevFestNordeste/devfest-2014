@@ -82,6 +82,20 @@
     - {name: "facebook", link: "https://facebook.com/malukenho"}
     - {name: "github", link: "https://gist.github.com/malukenho"}
 -
+  id: 12
+  name: "José"
+  surname: "Papo"
+  company: "Google"
+  title: "Developer Relations Program Manager"
+  bio: "José Papo é Developer Relations Program Manager no Google. Também já trabalhou na Amazon (AWS) e na Microsoft. É desenvolvedor de software, evangelista de novas tecnologias e mestre em engenharia da computação pelo IPT. Também atua como professor de pós-graduação na PUC-SP. Fala sobre tendências tecnológicas, computação em nuvem, agilidade, inovação e desenvolvimento de produtos em seu twitter @josepapo."
+  thumbnailUrl: JosePapo.jpg
+  rockstar: true
+  ribbon:
+    - {abbr: "Googler", title: "Googler", url: "https://plus.google.com/106855131320816130150/about"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106855131320816130150/posts"}
+    - {name: "twitter", link: "https://twitter.com/josepapo"}
+-
   id: 2
   name: "Joselito"
   surname: "Júnior"
@@ -150,20 +164,6 @@
     - {name: "twitter", link: "https://twitter.com/silasid"}
     - {name: "github", link: "https://github.com/silasalis"}
     - {name: "site", link: "http://silaslimeira.com/"}
--
-  id: 12
-  name: "José"
-  surname: "Papo"
-  company: "Google"
-  title: "Developer Relations Program Manager"
-  bio: "José Papo é Developer Relations Program Manager no Google. Também já trabalhou na Amazon (AWS) e na Microsoft. É desenvolvedor de software, evangelista de novas tecnologias e mestre em engenharia da computação pelo IPT. Também atua como professor de pós-graduação na PUC-SP. Fala sobre tendências tecnológicas, computação em nuvem, agilidade, inovação e desenvolvimento de produtos em seu twitter @josepapo"
-  thumbnailUrl: JosePapo.jpg
-  rockstar: true
-  ribbon:
-    - {abbr: "Googler", title: "Googler", url: "https://plus.google.com/106855131320816130150/about"}
-  social:
-    - {name: "google-plus", link: "https://plus.google.com/106855131320816130150/posts"}
-    - {name: "twitter", link: "https://twitter.com/josepapo"}
 #-
 #  id: 13
 #  name: "Modelo"

@@ -211,3 +211,7 @@ directionDetailsWideCards:
     title: "Detalhes para participantes"
     links:
     - {link: "https://plus.google.com/+GDGAracajuBlogspotBR/about", text: "GDG Aracaju"}
+
+
+# Schedule Block
+scheduleWarning: "Observação: a programação ainda pode sofrer alterações sem aviso prévio."
