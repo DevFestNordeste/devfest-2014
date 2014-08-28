@@ -1,9 +1,9 @@
 -
   group: 'Patrocinador Platina'
   elements:
-    - {name: 'Google', description: 'Google', link: 'https://www.google.com.ua/intl/en/about/', imageUrl: 'google.svg'}
+    - {name: 'Google', description: 'Google', link: 'https://www.google.com.ua/intl/en/about/', imageUrl: 'google.svg', width: '100%'}
 -
   group: 'Apoio'
   elements:
-    - {name: 'ANID', description: 'Associação Nacional para Inclusão Digital', link: 'http://www.anid.com.br/site/index.php/quem-somos.html', imageUrl: 'anid.svg'}
-    - {name: 'Doity', description: 'Doity - Sistema on-line de venda de inscrições e gerenciamento de eventos e cursos', link: 'https://www.doity.com.br/', imageUrl: 'logo-doity.svg'}
+    - {name: 'ANID', description: 'Associação Nacional para Inclusão Digital', link: 'http://www.anid.com.br/site/index.php/quem-somos.html', imageUrl: 'anid.svg', width: '100%'}
+    - {name: 'Doity', description: 'Doity - Sistema on-line de venda de inscrições e gerenciamento de eventos e cursos', link: 'https://www.doity.com.br/', imageUrl: 'logo-doity.svg', width: '100%'}

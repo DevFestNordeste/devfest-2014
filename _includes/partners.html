@@ -9,7 +9,7 @@
                 {% for element in organizer.elements %}
                 <li>
                     <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <img src="{{ site.baseurl }}/img/organizers/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}" >
                     </a>
                 </li>
                 {% endfor %}
@@ -22,7 +22,7 @@
                 {% for element in partner.elements %}
                 <li>
                     <a href="{{ element.link }}" target="_blank">
-                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}">
+                        <img src="{{ site.baseurl }}/img/partners/{{ element.imageUrl }}" title="{{ element.description }}" alt="{{ element.name }}" style="width: {{ element.width }}">
                     </a>
                 </li>
                 {% endfor %}
