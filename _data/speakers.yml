@@ -151,11 +151,25 @@
     - {name: "twitter", link: "https://twitter.com/renzonuccitec"}
     - {name: "github", link: "http://github.com/renzon"}
 -
+  id: 13
+  name: "Ricardo"
+  surname: "Cavalcante"
+  company: "ANID - Associação Nacional para Inclusão Digital"
+  title: "Analista de Sistema"
+  bio: ""
+  thumbnailUrl: RicardoCavalcante.jpg
+  ribbon:
+   - {abbr: "GDG", title: "GDG João Pessoa", url: "http://gdgjp.org.br/"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+RicardoCavalcanteJoaoPessoa/posts"}
+    - {name: "twitter", link: "https://twitter.com/Cavalcante_R"}
+    - {name: "github", link: "https://github.com/CavalcanteR"}
+-
   id: 10
   name: "Silas"
   surname: "Limeira"
   title: "Mobile Developer"
-  bio: "Bacherelando em Engenharia da Computação. Silas Limeira é desenvolvedor Mobile Freelancer. Participante ativo de eventos e hackathons, considera-se um entusiasta tecnológico e apoia 100% ações sociais como a Inclusão Digital."
+  bio: "Bacherelando em Engenharia da Computação. Silas Limeira é desenvolvedor Mobile Freelancer. Participante ativo de eventos e hackathons, ganhou a fase nacional do Space Apps Challenge 2013 (NASA), o Chrome Apps Challenge 2013 e o Startup JAM,  considera-se um entusiasta tecnológico e apoia 100% ações sociais como a Inclusão Digital."
   thumbnailUrl: SilasLimeira.jpg
   ribbon:
     - {abbr: "GDG", title: "GDG João Pessoa", url: "http://gdgjp.org.br/"}
@@ -164,21 +178,6 @@
     - {name: "twitter", link: "https://twitter.com/silasid"}
     - {name: "github", link: "https://github.com/silasalis"}
     - {name: "site", link: "http://silaslimeira.com/"}
-#-
-#  id: 13
-#  name: "Modelo"
-#  surname: "Modelo"
-#  company: "Popcode"
-#  title: "Engenheiro"
-#  bio: "Mini curriculo"
-#  thumbnailUrl: imagem.jpg.
-#  rockstar: true
-#  ribbon:
-#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
-#    - {name: "twitter", link: "https://twitter.com/mherych"}
 #-
 #  id: 14
 #  name: "Modelo"

@@ -100,9 +100,9 @@
 -
   id: 010
   title: "Android: na sua sala e no seu pulso"
-  description: ""
+  description: "Atualmente o sistema Android é muito versátil, ele pode ser utilizado em diversos aparelhos, dentre eles estão: Android Wear, Android Tv, Android Auto entre outros. É possível fazer com que todos esses dispositivos trabalhem juntos, como um só. Logo, mostraremos conceitos básicos para quem está iniciando no assunto e pretende começar a programar para o Chromecast e o Android Wear, no final iremos fazer uma DEMO, aplicação que servirá de exemplo na integração do Android Wear com seu smartphone e Chromecast."
   subtype: presentation
-  speakers: [10]
+  speakers: [10, 13]
   language: pt-br
   complexity: "Intermediário"
 -
