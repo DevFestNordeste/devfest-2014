@@ -115,12 +115,12 @@
   complexity: "Básico"
 -
   id: 013
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Material Design: Por onde começar?"
+  description: "Nessa palestra você vai ficar por dentro de tudo para elevar sua aplicação ao próximo nível. Dê vida ao seu layout seguindo as guidelines e utilizando os novos componentes disponíveis no Android L e descubra por que é importante você sempre suportar a versão mais nova do Robozinho."
   subtype: presentation
-  #speakers: [3]
+  speakers: [14]
   language: pt-br
-  complexity: ":-)"
+  complexity: "Intermediário"
 -
   id: 015
   title: "Aguardem mais detalhes"

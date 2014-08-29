@@ -69,6 +69,19 @@
     - {name: "twitter", link: "http://twitter.com/hdoria"}
     - {name: "github", link: "http://github.com/hdoria"}
 -
+  id: 14
+  name: "Italo"
+  surname: "Marcel"
+  company: "Getinfo"
+  title: "Coordenador de TI"
+  bio: "Um gamer nato e apaixonado por Android, formado em Programação de Sistemas pelo Instituto Federal de Sergipe e graduando em Ciência da Computação pela Universidade Federal de Sergipe. Programa desde os 15 anos de idade, e já desenvolveu diversos aplicativos  durante os mais de 4 anos como engenheiro Android. Inovar faz parte de seu DNA."
+  thumbnailUrl: ItaloMarcel.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+ItaloMarcel"}
+    - {name: "twitter", link: "https://twitter.com/italo_MSS"}
+    - {name: "facebook", link: "https://www.facebook.com/italo.marcel"}
+    - {name: "linkedin", link: "https://br.linkedin.com/pub/italo-marcel/92/690/2a4/"}
+-
   id: 7
   name: "Jefersson"
   surname: "Nathan"
@@ -178,21 +191,7 @@
     - {name: "twitter", link: "https://twitter.com/silasid"}
     - {name: "github", link: "https://github.com/silasalis"}
     - {name: "site", link: "http://silaslimeira.com/"}
-#-
-#  id: 14
-#  name: "Modelo"
-#  surname: "Modelo"
-#  company: "Popcode"
-#  title: "Engenheiro"
-#  bio: "Mini curriculo"
-#  thumbnailUrl: imagem.jpg
-#  rockstar: true
-#  ribbon:
-#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
-#    - {name: "twitter", link: "https://twitter.com/mherych"}
+
 #-
 #  id: 15
 #  name: "Modelo"
