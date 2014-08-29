@@ -16,6 +16,12 @@
             </ul>
             {% endfor %}
             <h3>{{ site.partnersTitle }}</h3>
+
+            <div style="display : block; margin-left : auto; margin-right : auto">
+            <h5>Patrocinador Platina</h5>
+            <p><img src="{{ site.baseurl }}/img/partners/google.svg" style="width: 350px" /></p>
+            </div>
+
             {% for partner in site.data.partners %}
             <h5>{{ partner.group }}</h5>
             <ul class="list-inline">

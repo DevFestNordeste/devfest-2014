@@ -113,6 +113,14 @@
   speakers: [12]
   language: pt-br
   complexity: "Básico"
+-  
+  id: 012
+  title: "Aguardem mais detalhes"
+  description: "Em breve divulgaremos mais atrações."
+  subtype: presentation
+  #speakers: [3]
+  language: pt-br
+  complexity: ":-)"
 -
   id: 013
   title: "Material Design: Por onde começar?"
@@ -121,6 +129,14 @@
   speakers: [14]
   language: pt-br
   complexity: "Intermediário"
+-
+  id: 014
+  title: "Aguardem mais detalhes"
+  description: "Em breve divulgaremos mais atrações."
+  subtype: presentation
+  #speakers: [3]
+  language: pt-br
+  complexity: ":-)"
 -
   id: 015
   title: "Aguardem mais detalhes"
