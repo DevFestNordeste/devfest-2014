@@ -155,7 +155,7 @@ socialLinks:
  - {link: "https://plus.google.com/u/0/+DevfestNEBR/", icon: "google-plus"}
  - {link: "https://twitter.com/intent/user?screen_name=DevfestNE", icon: "twitter"}
  - {link: "https://facebook.com/DevFestNE", icon: "facebook"}
- - {permalink: "http://2014.devfestne.com.br/feed.xml", icon: "rss"}
+# - {permalink: "http://2014.devfestne.com.br/feed.xml", icon: "rss"}
 footerBlocks:
  -
   title: "Links"
@@ -169,6 +169,7 @@ footerBlocks:
   title: "FAQ"
   links:
    - {permalink: "/cod/", text: "Código de Conduta"}
+   - {link: "https://drive.google.com/folderview?id=0B3hSeItpKYdUTF9fVGhSTWI5NE0&usp=sharing", text: "Media Kit"}
 
 # Blog
 blogTitle: "Últimas novidades"
