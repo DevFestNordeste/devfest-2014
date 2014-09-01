@@ -113,22 +113,22 @@
   speakers: [12]
   language: pt-br
   complexity: "Básico"
--  
-  id: 012
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
-  subtype: presentation
-  #speakers: [3]
-  language: pt-br
-  complexity: ":-)"
 -
-  id: 013
+  id: 012
   title: "Material Design: Por onde começar?"
   description: "Nessa palestra você vai ficar por dentro de tudo para elevar sua aplicação ao próximo nível. Dê vida ao seu layout seguindo as guidelines e utilizando os novos componentes disponíveis no Android L e descubra por que é importante você sempre suportar a versão mais nova do Robozinho."
   subtype: presentation
   speakers: [14]
   language: pt-br
   complexity: "Intermediário"
+-  
+  id: 013
+  title: "Ruby <3 Android"
+  description: "Ruby é uma linguagem de programação amorosa, ama Java, C#, iOS e seu amor mais recente é o Android. Nessa palestra irei falar um pouco sobre o Ruboto, uma alternativa bem bacana para quem quer programar Android mas não quer colocar a mão no Java, Eclipse e/ou Android Studio."
+  subtype: presentation
+  speakers: [15]
+  language: pt-br
+  complexity: "Básico"
 -
   id: 014
   title: "Aguardem mais detalhes"

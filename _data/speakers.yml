@@ -40,6 +40,19 @@
     - {name: "twitter", link: "https://twitter.com/ale_borba"}
     - {name: "github", link: "https://github.com/aleborba"}
 -
+  id: 15
+  name: "Breno"
+  surname: "Moura"
+  title: "Software Developer"
+  company: "Jaya Apps"
+  thumbnailUrl: BrenoMoura.jpg
+  ribbon:
+    - {abbr: "GDG", title: "GDG Aracaju", url: "http://www.gdgaracaju.com.br/2014/06/ruby-on-rails-google-calendar-hands-on.html"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+BrenoMoura27/"}
+    - {name: "twitter", link: "https://twitter.com/basmoura"}
+    - {name: "github", link: "https://github.com/basmoura"}
+-
   id: 4
   name: "Gustavo"
   surname: "Costa"
@@ -192,21 +205,7 @@
     - {name: "github", link: "https://github.com/silasalis"}
     - {name: "site", link: "http://silaslimeira.com/"}
 
-#-
-#  id: 15
-#  name: "Modelo"
-#  surname: "Modelo"
-#  company: "Popcode"
-#  title: "Engenheiro"
-#  bio: "Mini curriculo"
-#  thumbnailUrl: imagem.jpg
-#  rockstar: true
-#  ribbon:
-#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
-#    - {name: "twitter", link: "https://twitter.com/mherych"}
+
 #-
 #  id: 16
 #  name: "Modelo"
