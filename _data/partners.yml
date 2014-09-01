@@ -18,5 +18,8 @@
   group: 'Apoio'
   elements:
     - {name: 'ANID', description: 'Associação Nacional para Inclusão Digital', link: 'http://www.anid.com.br/site/index.php/quem-somos.html', imageUrl: 'anid.svg', width: '90%'}
+    - {name: 'Casa do Código', description: 'Editora Casa do Código', link: 'http://www.casadocodigo.com.br/', imageUrl: 'casadocodigo.svg', width: '90%'}
     - {name: 'Doity', description: 'Doity - Sistema on-line de venda de inscrições e gerenciamento de eventos e cursos', link: 'https://www.doity.com.br/', imageUrl: 'logo-doity.svg', width: '90%'}
     - {name: 'Infosistemas', description: 'Sistemas de informação', link: 'http://www.infosistemas.inf.br/', imageUrl: 'infosistemas.svg', width: '90%'}
+    - {name: 'Novatec', description: 'Novatec Editora', link: 'http://www.novatec.com.br/', imageUrl: 'novatec.svg', width: '90%'}
+    - {name: "O'Reilly", description: "O'Reilly Media", link: 'http://oreilly.com/', imageUrl: 'oreilly.svg', width: '90%'}
