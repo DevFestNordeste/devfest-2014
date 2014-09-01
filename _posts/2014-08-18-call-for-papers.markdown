@@ -4,6 +4,9 @@ title:  "Call for Papers"
 date:   2014-08-18 09:00:00
 isStaticPost: false
 ---
+
+__Atualização__: O período de submissão está encerrado! Agradecemos a todos os interessados.
+
 DevFest Nordeste 2014 ocorrerá no dia 18 de outubro em Aracaju. Se você quer fazer parte desse grande evento, você veio ao local correto.
 
 #### Palestrantes – quem deve falar na conferência DevFest?
