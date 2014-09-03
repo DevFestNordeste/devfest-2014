@@ -147,6 +147,19 @@
     - {name: "facebook", link: "https://facebook.com/lucasxas"}
     - {name: "github", link: "https://github.com/lucasxas"}
 -
+  id: 16
+  name: "Marcos"
+  surname: "Penha"
+  company: "Annuitwalk"
+  title: "CEO"
+  thumbnailUrl: MarcosPenha.jpg
+  ribbon:
+    - {abbr: "Samsung", title: "Software Engineer", url: "https://www.linkedin.com/profile/view?id=179276701"}
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+MarcosOaph/posts"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=179276701"}
+    - {name: "site", link: "http://marcosoap.com/"}
+-
   id: 11
   name: "Nelson"
   surname: "Glauber"
@@ -205,22 +218,6 @@
     - {name: "github", link: "https://github.com/silasalis"}
     - {name: "site", link: "http://silaslimeira.com/"}
 
-
-#-
-#  id: 16
-#  name: "Modelo"
-#  surname: "Modelo"
-#  company: "Popcode"
-#  title: "Engenheiro"
-#  bio: "Mini curriculo"
-#  thumbnailUrl: imagem.jpg
-#  rockstar: true
-#  ribbon:
-#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
-#    - {name: "twitter", link: "https://twitter.com/mherych"}
 #-
 #  id: 17
 #  name: "Modelo"

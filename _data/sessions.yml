@@ -146,6 +146,14 @@
   language: pt-br
   complexity: ":-)"
 -
+  id: 016
+  title: "O Impacto de Tecnologias Vestíveis Assistivas na Vida das Pessoas"
+  description: "Nessa palestra, será demonstrado como Wearable Computers pode mudar a vida das pessoas que possuem algum tipo de deficiência."
+  subtype: presentation
+  speakers: [16]
+  language: pt-br
+  complexity: "Básico"
+-
   id: 017
   title: "Aguardem mais detalhes"
   description: "Em breve divulgaremos mais atrações."
