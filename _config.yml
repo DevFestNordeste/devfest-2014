@@ -205,14 +205,19 @@ directionDetailsWideCards:
     title: "Hotéis"
     links:
      - {link: "https://plus.google.com/+GDGAracajuBlogspotBR/about", text: "GDG Aracaju"}
+     - {link: "https://plus.google.com/+EulerNetoNgt/posts", text: "Euler Neto"}
+     - {link: "mailto:contato@devfestne.com.br", text: "Email"}
    - 
     title: "Inscrições"
     links:
     - {link: "https://plus.google.com/+GDGAracajuBlogspotBR/about", text: "GDG Aracaju"}
+    - {link: "https://plus.google.com/+ErickMendonca/about", text: "Erick Mendonça"}
+    - {link: "mailto:contato@devfestne.com.br", text: "Email"}
    -
     title: "Detalhes para participantes"
     links:
     - {link: "https://plus.google.com/+GDGAracajuBlogspotBR/about", text: "GDG Aracaju"}
+    - {link: "mailto:contato@devfestne.com.br", text: "Email"}
 
 
 # Schedule Block
