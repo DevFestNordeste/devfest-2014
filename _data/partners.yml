@@ -7,6 +7,7 @@
 -
   group: 'Patrocinador Ouro'
   elements:
+    - {name: 'SENAC', description: 'Serviço Nacional de Aprendizagem Comercial', link: 'http://www.senac.br/', imageUrl: 'senac.svg', width: '100%'}
     - {name: 'Superlux', description: 'Mídia exterior e comunicação visual', link: 'http://superlux.com.br/', imageUrl: 'superlux.svg', width: '100%'}
 -
   group: 'Patrocinador Prata'
@@ -27,3 +28,4 @@
     - {name: 'Infosistemas', description: 'Sistemas de informação', link: 'http://www.infosistemas.inf.br/', imageUrl: 'infosistemas.svg', width: '80%'}
     - {name: 'Novatec', description: 'Novatec Editora', link: 'http://www.novatec.com.br/', imageUrl: 'novatec.svg', width: '80%'}
     - {name: "O'Reilly", description: "O'Reilly Media", link: 'http://oreilly.com/', imageUrl: 'oreilly.svg', width: '80%'}
+    - {name: "SergipeTec", description: "Parque Tecnológico de Sergipe", link: 'http://www.sergipetec.se.gov.br/', imageUrl: 'sergipetec.svg', width: '80%'}
