@@ -44,6 +44,7 @@ navigationLinks:
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "Logística"}
  - {permalink: "/#buy-tickets", text: "Inscrições"}
+ - {permalink: "/partners/", text: "Parceiros"}
  - {link: "https://developers.google.com", text: "Desenvolvedores"}
 bottomNavigationLinks:
 # - {link: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
