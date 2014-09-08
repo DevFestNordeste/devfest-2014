@@ -51,12 +51,12 @@
   complexity: "Intermediário"
 -
   id: 003
-  title: "GWT"
-  #description: "Em breve divulgaremos mais atrações."
+  title: "Aguardem mais detalhes"
+  description: "Em breve divulgaremos mais atrações."
   subtype: presentation
   #speakers: [3]
   language: pt-br
-  #complexity: ":-)"
+  complexity: ":-)"
 -
   id: 004
   title: "Criando aplicativos com HTML5 para Android usando o Chrome a seu favor"
@@ -147,12 +147,12 @@
   complexity: "Intermediário"
 -
   id: 015
-  title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  title: "GWT"
+  #description: "Em breve divulgaremos mais atrações."
   subtype: presentation
   #speakers: [3]
   language: pt-br
-  complexity: ":-)"
+  #complexity: ":-)"
 -
   id: 016
   title: "O Impacto de Wearable Computers na vida das pessoas: Uma ponte para tecnologias assistivas e acessibilidade"
