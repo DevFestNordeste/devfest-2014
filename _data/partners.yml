@@ -12,7 +12,8 @@
 -
   group: 'Patrocinador Prata'
   elements:
-    - {name: 'Jamsoft', description: '', link: 'http://portal.jamsoft.com.br/quem-somos/', imageUrl: 'jamsoft.svg', width: '95%'}
+    - {name: 'Jamsoft', description: 'Jamsoft', link: 'http://portal.jamsoft.com.br/quem-somos/', imageUrl: 'jamsoft.svg', width: '95%'}
+    - {name: 'Zeus Automação', description: 'Zeus', link: 'http://www.zeusautomacao.com.br/', imageUrl: 'zeus.svg', width: '95%'}
 -
   group: 'Patrocinador Bronze'
   elements:
