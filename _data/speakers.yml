@@ -149,12 +149,11 @@
 -
   id: 16
   name: "Marcos"
-  surname: "Penha"
-  company: "Annuitwalk"
-  title: "CEO"
+  surname: "OAP"
+  company: "Samsung (CIN/UFPE)"
+  title: "Engenheiro de Software"
+  bio: "Marcos OAP é graduando em Ciência da Computação na FBV/DeVry University Brasil. Tem experiência como profissional da área há mais de oito anos fornecendo soluções de negócios para empresas nacionais e internacionais, atuando em papéis como Analista de Sistemas, Desenvolvedor e Gerente de Projetos. Atualmente é Engenheiro de Software no projeto Samsung no Centro de Informática da UFPE. É fascinado por inovação e projetos desafiadores. Por ser entusiasta da área de Wearable Computers fundou o grupo de pesquisas “WearIT”, do qual ele está fortemente engajado com projetos de responsabilidade social e acessibilidade. Um desses é o projeto AnnuitWalk, que visa resolver o problema de mobilidade dos cegos através de um óculos inteligente com foco na detecção de obstáculos. Nas horas vagas gosta de cinema, praia, escrever e ler ficção cientifica para, quem sabe, inspirar novos projetos :)"
   thumbnailUrl: MarcosPenha.jpg
-  ribbon:
-    - {abbr: "Samsung", title: "Software Engineer", url: "https://www.linkedin.com/profile/view?id=179276701"}
   social:
     - {name: "google-plus", link: "https://plus.google.com/+MarcosOaph/posts"}
     - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=179276701"}
