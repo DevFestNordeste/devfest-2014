@@ -75,12 +75,12 @@
   #complexity: ":-)"
 -
   id: 006
-  title: "Startups"
-  description: "Em breve divulgaremos mais atrações."
+  title: "Startups no Brasil"
+  description: ""
   subtype: presentation
-  #speakers: [3]
+  speakers: [17]
   language: pt-br
-  complexity: ":-)"
+  complexity: "Básico"
 -
   id: 007
   title: "PGAE: Um novo LAMP"

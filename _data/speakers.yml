@@ -216,19 +216,14 @@
     - {name: "twitter", link: "https://twitter.com/silasid"}
     - {name: "github", link: "https://github.com/silasalis"}
     - {name: "site", link: "http://silaslimeira.com/"}
-
-#-
-#  id: 17
-#  name: "Modelo"
-#  surname: "Modelo"
-#  company: "Popcode"
-#  title: "Engenheiro"
-#  bio: "Mini curriculo"
-#  thumbnailUrl: imagem.jpg
-#  rockstar: true
-#  ribbon:
-#    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
-#    - {abbr: "GDG", title: "Google Developer Group", url: "https://developers.google.com/groups/chapter/107562802227561437057/"}
-#  social:
-#    - {name: "google-plus", link: "https://plus.google.com/u/0/106714577233715858252/posts"}
-#    - {name: "twitter", link: "https://twitter.com/mherych"}
+-
+  id: 17
+  name: "Talita"
+  surname: "Lombardi"
+  company: "Startup Stars"
+  title: "Founder"
+  bio: "Administradora de formação, estudante de marketing digital da FGV, Talita Lombardi atualmente é Gerente Nacional de contas estratégicas da PedidosJá, faz consultoria e dá curso de vendas para Startups. É palestrante, mentora, jurada e super entusiasta do movimento de inovação tecnológico no Brasil. Isso aconteceu depois de 2012, quando fundou um blog de empreendedorismo digital, o Startups Stars, que se tornou referência em todo país. Ajudou diretamente e indiretamente mais de 10 Startups. Fundou ainda o blog Menina Executiva, é Nordestina que mora na ponte aérea entre Rio e São Paulo, ela está sempre pronta para ouvir e ajudar os empreendedores."
+  thumbnailUrl: TalitaLombardi.jpg
+  social:
+    - {name: "site", link: "http://www.startupsstars.com/"}
+    - {name: "site", link: "http://meninaexecutiva.com/"}
