@@ -70,9 +70,9 @@
   title: "AngularJS"
   #description: "Em breve divulgaremos mais atrações."
   subtype: presentation
-  #speakers: [3]
+  speakers: [18]
   language: pt-br
-  #complexity: ":-)"
+  complexity: "Básico"
 -
   id: 006
   title: "Startups no Brasil"
