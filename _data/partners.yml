@@ -18,7 +18,7 @@
 -
   group: 'Patrocinador Bronze'
   elements:
-    - {name: 'DP Sistemas', description: 'DP Sistemas - Soluções Inteligentes', link: 'http://www2.dpsistemas.com.br/', imageUrl: 'dpsistemas.svg', width: '90%'}
+    - {name: 'DP Sistemas', description: 'DP Sistemas - Soluções Inteligentes', link: 'https://www.facebook.com/dpsistemas', imageUrl: 'dpsistemas.svg', width: '90%'}
     - {name: 'PHP-SE', description: 'Comunidade PHP de Sergipe', link: 'https://www.phpse.net/', imageUrl: 'phpse.svg', width: '90%'}
     - {name: 'Pushideas', description: 'Gestão em TI, Desenvolvimento, Mobile', link: 'http://pushideas.com.br/', imageUrl: 'pushideas.svg', width: '90%'}
 -
