@@ -133,14 +133,14 @@ ticketsOffers:
   validFrom: "2014-08-26T10:00"
   validThrough: "2014-10-10T23:59"
  -
-  name: "Early Bird"
+  name: "Standard"
   price: "R$ 50"
   featured: true
   buyButtonLink: "https://doity.com.br/devfest-nordeste-2014"
   buyButtonText: "Compre agora!"
-  ticketContentList: ["Compre com antecedência", "Reserve seu ingresso", "E ganhe um brinde!"]
-  validFrom: "2014-08-26T10:00"
-  validThrough: "2014-09-08T23:59"
+  ticketContentList: ["", "Reserve seu ingresso", ""]
+  validFrom: "2014-09-10T10:00"
+  validThrough: "2014-09-30T23:59"
  -
   name: "Membros de GDG"
   price: "R$ 40"
@@ -150,6 +150,15 @@ ticketsOffers:
   ticketContentList: ["Membros de Google Developer Groups", "Recebem descontos!",""]
   validFrom: "2014-08-26T10:00"
   validThrough: "2014-10-10T23:59"
+# -
+#  name: "Early Bird"
+#  price: "R$ 50"
+#  featured: true
+#  buyButtonLink: "https://doity.com.br/devfest-nordeste-2014"
+#  buyButtonText: "Compre agora!"
+#  ticketContentList: ["Compre com antecedência", "Reserve seu ingresso", "E ganhe um brinde!"]
+#  validFrom: "2014-08-26T10:00"
+#  validThrough: "2014-09-08T23:59"
 
 # Footer
 socialLinks:

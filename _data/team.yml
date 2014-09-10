@@ -177,4 +177,17 @@
     - {name: "twitter", link: "https://twitter.com/silasid"}
     - {name: "github", link: "https://github.com/silasalis"}
     - {name: "site", link: "http://silaslimeira.com/"}
+-
+  id: 15
+  name: "Wilson"
+  surname: "Mendes"
+  title: ""
+  thumbnailUrl: WilsonMendes.png
+  subTeam: true
+  title: "GDG Salvador"
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/106614160477906803303"}
+    - {name: "twitter", link: "https://twitter.com/willmendesneto"}
+    - {name: "github", link: "https://github.com/willmendesneto"}
+    - {name: "site", link: "http://willmendesneto.github.io/"}
 
