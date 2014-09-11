@@ -75,12 +75,12 @@
   complexity: "Básico"
 -
   id: 006
-  title: "Startups no Brasil"
-  description: ""
+  title: "API-First: A 'Revolução Industrial' do Software"
+  description: "É cada dia mais comum desenvolvermos um produto que é consumido por diversos tipos de 'front ends' diferentes, seja web, mobile ou ecosistemas de terceiros. Por conta disso, há uma crescente necessidade de se criar uma API robusta, agnóstica e que possa ser utilizada por diversos canais diferentes. Esta palestra mostrará como você pode iniciar o desenvolvimento do seus aplicativos já pensando na API como parte central do seu projeto, utilizando isso como vantagem para desenvolver apps mais rapidamente e com maior qualidade."
   subtype: presentation
-  speakers: [17]
+  speakers: [3]
   language: pt-br
-  complexity: "Básico"
+  complexity: "Intermediário"
 -
   id: 007
   title: "PGAE: Um novo LAMP"
@@ -91,12 +91,12 @@
   complexity: "Avançado"
 -
   id: 008
-  title: "API-First: A 'Revolução Industrial' do Software"
-  description: "É cada dia mais comum desenvolvermos um produto que é consumido por diversos tipos de 'front ends' diferentes, seja web, mobile ou ecosistemas de terceiros. Por conta disso, há uma crescente necessidade de se criar uma API robusta, agnóstica e que possa ser utilizada por diversos canais diferentes. Esta palestra mostrará como você pode iniciar o desenvolvimento do seus aplicativos já pensando na API como parte central do seu projeto, utilizando isso como vantagem para desenvolver apps mais rapidamente e com maior qualidade."
+  title: "Startups no Brasil"
+  description: ""
   subtype: presentation
-  speakers: [3]
+  speakers: [17]
   language: pt-br
-  complexity: "Intermediário"
+  complexity: "Básico"
 -
   id: 009
   title: "Websockets e você, tudo a ver"
