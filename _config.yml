@@ -71,7 +71,7 @@ aboutBlock:
 statisticBlock:
  - {count: "250", specialCharacter: "+", info: "participantes", detail: "de todo Brasil"}
  - {count: "12", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
- - {count: "15", specialCharacter: "+", info: "palestrantes", detail: "de todo Brasil"}
+ - {count: "18", specialCharacter: "+", info: "palestrantes", detail: "de todo Brasil"}
  - {count: "2", specialCharacter: "", info: "trilhas paralelas", detail: "mais lounge de entretenimento"}
 
 # Latest News Block
@@ -153,9 +153,9 @@ ticketsOffers:
 # -
 #  name: "Early Bird"
 #  price: "R$ 50"
-#  featured: true
-#  buyButtonLink: "https://doity.com.br/devfest-nordeste-2014"
-#  buyButtonText: "Compre agora!"
+#  ribbon: "Esgotado"
+#  #buyButtonLink: "https://doity.com.br/devfest-nordeste-2014"
+#  #buyButtonText: "Esgotado!"
 #  ticketContentList: ["Compre com antecedência", "Reserve seu ingresso", "E ganhe um brinde!"]
 #  validFrom: "2014-08-26T10:00"
 #  validThrough: "2014-09-08T23:59"
@@ -171,6 +171,7 @@ footerBlocks:
   title: "Links"
   links:
    - {link: "https://developers.google.com", text: "Google Developers"}
+   - {permalink: "/blog/caravanas", text: "Caravanas"}
  -
   title: "Contato"
   links:

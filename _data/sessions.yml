@@ -52,9 +52,9 @@
 -
   id: 003
   title: "Aguardem mais detalhes"
-  description: "Em breve divulgaremos mais atrações."
+  #description: "Em breve divulgaremos mais atrações."
   subtype: presentation
-  #speakers: [3]
+  speakers: [20]
   language: pt-br
   complexity: ":-)"
 -
@@ -150,9 +150,9 @@
   title: "GWT"
   #description: "Em breve divulgaremos mais atrações."
   subtype: presentation
-  #speakers: [3]
+  speakers: [19]
   language: pt-br
-  #complexity: ":-)"
+  complexity: "Básico"
 -
   id: 016
   title: "O Impacto de Wearable Computers na vida das pessoas: Uma ponte para tecnologias assistivas e acessibilidade"

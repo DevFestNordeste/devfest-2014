@@ -66,6 +66,14 @@
     - {name: "google-plus", link: "https://plus.google.com/+CiroNunesDev"}
     - {name: "twitter", link: "https://twitter.com/CiroNunesDev"}
 -
+  id: 19
+  name: "Danilo"
+  surname: "Reinert"
+  thumbnailUrl: DaniloReinert.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+DaniloReinert"}
+    - {name: "linkedin", link: "http://br.linkedin.com/pub/danilo-reinert/9/69/219/pt"}
+-
   id: 4
   name: "Gustavo"
   surname: "Costa"
@@ -159,6 +167,15 @@
     - {name: "twitter", link: "https://twitter.com/lucasxavier"}
     - {name: "facebook", link: "https://facebook.com/lucasxas"}
     - {name: "github", link: "https://github.com/lucasxas"}
+-
+  id: 20
+  name: "Luís"
+  surname: "Leão"
+  thumbnailUrl: LuisLeao.jpg
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/+Lu%C3%ADsLe%C3%A3o"}
+    - {name: "twitter", link: "http://twitter.com/luisleao"}
+    - {name: "facebook", link: "http://www.facebook.com/luis.leao"}
 -
   id: 16
   name: "Marcos"
