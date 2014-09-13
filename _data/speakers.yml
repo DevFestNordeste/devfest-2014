@@ -129,6 +129,17 @@
     - {name: "facebook", link: "https://facebook.com/malukenho"}
     - {name: "github", link: "https://gist.github.com/malukenho"}
 -
+  id: 21
+  name: "John"
+  surname: "Cordeiro"
+  company: "Ilhasoft"
+  title: "Desenvolvedor Mobile"
+  bio: "Atualmente é Desenvolvedor Mobile e Web Backend. Tem experiência em desenvolvimento mobile com ênfase nas plataformas Android e iOS. No presente possui seus trabalhos e pesquisas na área de visão computacional, reconhecimento de padrões e processamento multimídia. Entusiasta de tecnologias Google como o Chromecast, Google TV e Android Wear."
+  thumbnailUrl: JohnCordeiro.png
+  social:
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+JohnCordeiroo"}
+    - {name: "facebook", link: "https://www.facebook.com/johndalton.costacordeiro"}
+-
   id: 12
   name: "José"
   surname: "Papo"

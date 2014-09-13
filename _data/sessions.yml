@@ -171,9 +171,9 @@
   complexity: "Básico"
 -
   id: 018
-  title: "Chromecast"
-  #description: "Em breve divulgaremos mais atrações."
+  title: "Desenvolvendo para Chromecast"
+  description: "Um overview sobre o Chromecast como tecnologia, mostrando as possibilidades tanto dos aplicativos executados no cliente quanto na TV, mostrando o fluxo de comunicação entre ambos e a aplicação dos mesmos."
   subtype: presentation
-  #speakers: [3]
+  speakers: [21]
   language: pt-br
-  #complexity: ":-)"
+  complexity: "Básico"
