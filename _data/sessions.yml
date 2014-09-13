@@ -138,7 +138,7 @@
   language: pt-br
   complexity: "Básico"
 -
-  id: 014
+  id: 018
   title: "Android: na sua sala e no seu pulso"
   description: "Atualmente o sistema Android é muito versátil, ele pode ser utilizado em diversos aparelhos, dentre eles estão: Android Wear, Android Tv, Android Auto entre outros. É possível fazer com que todos esses dispositivos trabalhem juntos, como um só. Logo, mostraremos conceitos básicos para quem está iniciando no assunto e pretende começar a programar para o Chromecast e o Android Wear, no final iremos fazer uma DEMO, aplicação que servirá de exemplo na integração do Android Wear com seu smartphone e Chromecast."
   subtype: presentation
@@ -154,7 +154,7 @@
   language: pt-br
   complexity: "Básico"
 -
-  id: 016
+  id: 014
   title: "O Impacto de Wearable Computers na vida das pessoas: Uma ponte para tecnologias assistivas e acessibilidade"
   description: "Tecnologias Vestíveis são uma realidade hoje! Se observarmos, facilmente encontramos produtos deste setor no mercado ou grandes iniciativas que prometem revolucionar o modo como interagimos com computadores, como por exemplo o Google Glass e os tão especulados smartwatches. Porém, nem sempre temos a perspectiva de como esses equipamentos podem realmente melhorar nossa qualidade de vida. E principalmente, como essas tecnologias podem auxiliar aqueles que mais precisam. Então, como podemos resolver os problemas de pessoas que sofrem algum tipo de deficiência? O que temos disponivel atualmente no mercado para facilitar a construção de tais tecnologias assistivas? Essa palestra visa responder essas perguntas e apresentar um novo ponto de vista sobre o uso de tecnologias vestíveis para promover a inclusão social e a acessibilidade."
   subtype: presentation
@@ -170,7 +170,7 @@
   language: pt-br
   complexity: "Básico"
 -
-  id: 018
+  id: 016
   title: "Desenvolvendo para Chromecast"
   description: "Um overview sobre o Chromecast como tecnologia, mostrando as possibilidades tanto dos aplicativos executados no cliente quanto na TV, mostrando o fluxo de comunicação entre ambos e a aplicação dos mesmos."
   subtype: presentation
