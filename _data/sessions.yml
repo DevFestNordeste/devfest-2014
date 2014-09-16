@@ -147,8 +147,8 @@
   complexity: "Intermediário"
 -
   id: 015
-  title: "GWT"
-  #description: "Em breve divulgaremos mais atrações."
+  title: "GWT: de iniciante a especialista"
+  description: "O GWT é conhecido por ter uma pesada curva de aprendizagem, desestimulando iniciantes a continuar no estudo da tecnologia. Essa palestra buscará trazer para os participantes um conhecimento abrangente porém seletivo, norteado pelas melhores práticas, para que eles possam iniciar o desenvolvimento de aplicações web com GWT de imediato."
   subtype: presentation
   speakers: [19]
   language: pt-br

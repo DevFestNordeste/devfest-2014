@@ -69,10 +69,14 @@
   id: 19
   name: "Danilo"
   surname: "Reinert"
+  company: "Growbit"
+  title: "Software Architect"
+  bio: "Com vários anos de experiência em Java e Javascript, ele foca no desenvolvimento de soluções relacionados a essas linguagens, especialmente voltadas para a Web. Nos últimos dois anos, tem atuado fortemente na plataforma GWT, participando com frequência na comunidade e contribuindo para bibliotecas reutilizáveis. Entusiasta do open source, ele colabora regularmente com projetos relacionados a GWT, como GWT-Bootstrap, AngularGWT e o próprio GWT, ou de modo mais genérico com o Java, como o json-schema-validator, e mantém projetos de autoria própria como o JJSchema e o Turbo GWT."
   thumbnailUrl: DaniloReinert.jpg
   social:
     - {name: "google-plus", link: "https://plus.google.com/+DaniloReinert"}
     - {name: "linkedin", link: "http://br.linkedin.com/pub/danilo-reinert/9/69/219/pt"}
+    - {name: "github", link: "https://github.com/growbit/turbogwt"}
 -
   id: 4
   name: "Gustavo"
