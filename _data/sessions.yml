@@ -51,12 +51,12 @@
   complexity: "Intermediário"
 -
   id: 003
-  title: "Aguardem mais detalhes"
-  #description: "Em breve divulgaremos mais atrações."
+  title: "Criando um aplicativo na nuvem para Google Glass"
+  description: "Nesta sessão será demonstrada a criação de uma aplicação usando a Mirror API para o Google Glass."
   subtype: presentation
   speakers: [20]
   language: pt-br
-  complexity: ":-)"
+  complexity: "Intermediário"
 -
   id: 004
   title: "Criando aplicativos com HTML5 para Android usando o Chrome a seu favor"

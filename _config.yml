@@ -128,7 +128,7 @@ ticketsOffers:
   price: "R$ 25"
   ribbon: "-50%"
   buyButtonLink: "https://doity.com.br/devfest-nordeste-2014"
-  buyButtonText: "Comprar"
+  buyButtonText: "Esgotado"
   ticketContentList: ["Forneça um comprovante", "Receba um ótimo desconto",""]
   validFrom: "2014-08-26T10:00"
   validThrough: "2014-10-10T23:59"
@@ -137,7 +137,7 @@ ticketsOffers:
   price: "R$ 50"
   featured: true
   buyButtonLink: "https://doity.com.br/devfest-nordeste-2014"
-  buyButtonText: "Compre agora!"
+  buyButtonText: "Esgotado"
   ticketContentList: ["", "Reserve seu ingresso", ""]
   validFrom: "2014-09-10T10:00"
   validThrough: "2014-09-30T23:59"
@@ -146,7 +146,7 @@ ticketsOffers:
   price: "R$ 40"
   ribbon: "-20%"
   buyButtonLink: "https://doity.com.br/devfest-nordeste-2014"
-  buyButtonText: "Comprar"
+  buyButtonText: "Esgotado"
   ticketContentList: ["Membros de Google Developer Groups", "Recebem descontos!",""]
   validFrom: "2014-08-26T10:00"
   validThrough: "2014-10-10T23:59"
