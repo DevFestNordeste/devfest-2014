@@ -36,3 +36,4 @@
   elements:    
     - {name: "SergipeTec", description: "Parque Tecnológico de Sergipe", link: 'http://www.sergipetec.se.gov.br/', imageUrl: 'sergipetec.svg', width: '70%'}
     - {name: "Jornal da Cidade", description: "Jornal da Cidade", link: 'http://www.jornaldacidade.net/', imageUrl: 'jornaldacidade.svg', width: '70%'}
+    - {name: "FANESE", description: "Faculdade de Administração e Negócios de Sergipe", link: 'http://ww3.fanese.edu.br/', imageUrl: 'fanese.svg', width: '70%'}
