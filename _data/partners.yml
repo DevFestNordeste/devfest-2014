@@ -7,6 +7,7 @@
 -
   group: 'Patrocinador Ouro'
   elements:
+    - {name: 'Celi Mall Decor', description: 'Celi Mall Decor', link: 'http://celimalldecor.com.br/', imageUrl: 'celimalldecor.svg', width: '100%'}
     - {name: 'SEBRAE', description: 'Serviço Brasileiro de Apoio às Micro e Pequenas Empresas', link: 'http://www.sebrae.com.br/', imageUrl: 'sebrae.svg', width: '100%'}
     - {name: 'SENAC', description: 'Serviço Nacional de Aprendizagem Comercial', link: 'http://www.senac.br/', imageUrl: 'senac.svg', width: '100%'}
     - {name: 'Superlux', description: 'Mídia exterior e comunicação visual', link: 'http://superlux.com.br/', imageUrl: 'superlux.svg', width: '100%'}
