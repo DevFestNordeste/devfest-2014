@@ -57,8 +57,9 @@ eventDate: "18 de outubro de 2014"
 typeoutTextValues: '"", "Nordeste", "Aracaju", "João Pessoa", "Fortaleza", "Recife", "Maceió"'
 heroButtons:
  #- {url: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
- - {url: "http://2014.devfestne.com.br/blog/patrocinador/", text: "Seja um patrocinador"}
- - {url: "https://doity.com.br/devfest-nordeste-2014", text: "Inscreva-se!"}
+ #- {url: "http://2014.devfestne.com.br/blog/patrocinador/", text: "Seja um patrocinador"}
+ #- {url: "https://doity.com.br/devfest-nordeste-2014", text: "Inscreva-se!"}
+ - {url: "http://2014.devfestne.com.br/#subscribe", text: "Inscrições esgotadas! Entre na lista de espera!"}
 
 # About Block
 aboutTitle: "Sobre GDG DevFest"
@@ -116,7 +117,7 @@ partnersC4sponsorsButton: "Seja um patrocinador"
 organizersTitle: "Organizadores"
 
 # Subscribe Block
-subscribeTitle: "Inscreva-se para as novidades"
+subscribeTitle: "Seja avisado de novidades e novos lotes de inscrições"
 subscribeAction: "http://devfestne.us8.list-manage.com/subscribe/post?u=89545d81cc2471a50c83a319d&amp;id=bc6da73bc8"
 subscribeInfo: "O DevFest Nordeste não enviará spam ao seu email. Todas as comunicações serão sobre o evento."
 
