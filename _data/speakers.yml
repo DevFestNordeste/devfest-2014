@@ -60,6 +60,8 @@
   title: "Senior Front-end Engineer"
   bio: "Ciro desenvolve aplicações para o mercado financeiro pela Questrade que desafiam os limites do AnguarJS. É apaixonado por Open Source, contribuidor do core do Angular e maintainer do Karma. Ele também revisa livros, organiza meetups e ministra cursos sobre o framework mais baladado do momento, além de palestrar em eventos pelo Brasil."
   thumbnailUrl: CiroNunes.jpg
+  ribbon:
+    - {abbr: "GDE", title: "Google Developer Expert", url: "https://developers.google.com/experts/"}
   social:
     - {name: "site", link: "http://cironunes.com/"}
     - {name: "github", link: "https://github.com/cironunes"}
