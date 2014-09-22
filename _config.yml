@@ -43,7 +43,8 @@ navigationLinks:
  - {permalink: "/speakers/", text: "Palestrantes"}
  - {permalink: "/team/", text: "Equipe"}
  - {permalink: "/logistics/", text: "Logística"}
- - {permalink: "/#buy-tickets", text: "Inscrições"}
+ #- {permalink: "/#buy-tickets", text: "Inscrições"}
+ - {link: "https://docs.google.com/forms/d/1yhp0xcYwsggotXGQRr1JnRR-USCxp-AlDM4pprfDgHs/viewform?usp=send_form", text: "Inscrições"}
  - {permalink: "/partners/", text: "Parceiros"}
  - {link: "https://developers.google.com", text: "Desenvolvedores"}
 bottomNavigationLinks:
@@ -59,7 +60,7 @@ heroButtons:
  #- {url: "http://bit.ly/devfestne-call", text: "Seja um palestrante"}
  #- {url: "http://2014.devfestne.com.br/blog/patrocinador/", text: "Seja um patrocinador"}
  #- {url: "https://doity.com.br/devfest-nordeste-2014", text: "Inscreva-se!"}
- - {url: "http://2014.devfestne.com.br/#subscribe", text: "Inscrições esgotadas! Entre na lista de espera!"}
+ - {url: "https://docs.google.com/forms/d/1yhp0xcYwsggotXGQRr1JnRR-USCxp-AlDM4pprfDgHs/viewform?usp=send_form", text: "Inscrições esgotadas! Entre na lista de espera!"}
 
 # About Block
 aboutTitle: "Sobre GDG DevFest"
@@ -117,7 +118,7 @@ partnersC4sponsorsButton: "Seja um patrocinador"
 organizersTitle: "Organizadores"
 
 # Subscribe Block
-subscribeTitle: "Seja avisado de novidades e novos lotes de inscrições"
+subscribeTitle: "Acompanhe as novidades"
 subscribeAction: "http://devfestne.us8.list-manage.com/subscribe/post?u=89545d81cc2471a50c83a319d&amp;id=bc6da73bc8"
 subscribeInfo: "O DevFest Nordeste não enviará spam ao seu email. Todas as comunicações serão sobre o evento."
 
