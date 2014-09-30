@@ -1,0 +1,380 @@
+[
+  {
+    "id": 1,
+    "name": "Breno",
+    "surname": "Moura",
+    "title": "GDG Aracaju",
+    "thumbnailUrl": "BrenoMoura.jpg",
+    "subTeam": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+BrenoMoura27/"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/basmoura"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/basmoura"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Daniel",
+    "surname": "Castro",
+    "title": "GDG Fortaleza",
+    "thumbnailUrl": "DanielCastro.png",
+    "team": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+DanielCastro23/"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/dancasttro"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/dancasttro"
+      },
+      {
+        "name": "site",
+        "link": "http://dancasttro.github.io"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Elias",
+    "surname": "de Oliveira",
+    "title": "GDG Fortaleza",
+    "thumbnailUrl": "EliasdeOliveira.jpg",
+    "team": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+EliasDeOliveirafaeliaso/"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/faeliaso"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/faeliaso"
+      },
+      {
+        "name": "site",
+        "link": "http://eliasdeoliveira.com/"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Erick",
+    "surname": "Mendonça",
+    "title": "GDG Aracaju",
+    "thumbnailUrl": "ErickMendonca.jpg",
+    "team": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://google.com/+ErickMendonca"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/erickmagnus"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/erickmendonca"
+      },
+      {
+        "name": "site",
+        "link": "http://erickmendonca.com.br/"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Euler",
+    "surname": "Neto",
+    "title": "GDG Aracaju",
+    "thumbnailUrl": "EulerNeto.jpg",
+    "team": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://google.com/+EulerNetoNgt"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/netonightmare"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/netoeuler"
+      },
+      {
+        "name": "site",
+        "link": "http://anarcomputero.wordpress.com/"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Gustavo",
+    "surname": "Costa",
+    "title": "GDG Maceió",
+    "thumbnailUrl": "gustavocostaw.jpg",
+    "subTeam": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/+GustavoCostaW"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/GustavoCostaW"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/GustavoCostaW"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Ivan",
+    "surname": "Santos",
+    "title": "GDG Maceió",
+    "thumbnailUrl": "IvanSantos.jpg",
+    "subTeam": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://google.com/+IvanSantosJr"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/pragmaticivan"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/pragmaticivan"
+      },
+      {
+        "name": "site",
+        "link": "http://ivansjr.com.br/"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Jacques",
+    "surname": "Belmont",
+    "title": "GDG João Pessoa",
+    "thumbnailUrl": "JacquesBelmont.jpg",
+    "subTeam": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://google.com/+jacquesbelmont"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/jacques_belmont"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/icejack"
+      },
+      {
+        "name": "site",
+        "link": "http://www.jacquesbelmont.com"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Joselito",
+    "surname": "Júnior",
+    "title": "GDG Recife",
+    "thumbnailUrl": "joselito.jpg",
+    "team": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://google.com/+JoselitoJúnior"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/joselitojunior1"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/joselitojunior1"
+      },
+      {
+        "name": "site",
+        "link": "http://www.joselitojunior.com"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Juarez",
+    "surname": "P. A. Filho",
+    "title": "GDG Maceió",
+    "thumbnailUrl": "JuarezFilho.jpg",
+    "subTeam": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://google.com/+JuarezPAFilho"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/juarezpaf"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/juarezpaf"
+      },
+      {
+        "name": "site",
+        "link": "http://caravanaweb.com.br"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Ricardo",
+    "surname": "Cavalcante",
+    "title": "GDG João Pessoa",
+    "thumbnailUrl": "RicardoCavalcante.jpg",
+    "subTeam": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/u/0/+RicardoCavalcanteJoaoPessoa"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/CavalcanteR"
+      },
+      {
+        "name": "site",
+        "link": "http://ricardocavalcante.com/"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Roberto",
+    "surname": "Brandini",
+    "title": "GDG Aracaju",
+    "thumbnailUrl": "RobertoBrandini.jpg",
+    "team": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://google.com/+RobertoBrandini"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/RobertoBrandini"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/RobertoBrandini"
+      },
+      {
+        "name": "site",
+        "link": "http://robertobrandini.wordpress.com/"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Rodrigo",
+    "surname": "Amaral",
+    "title": "PUG Sergipe",
+    "thumbnailUrl": "RodrigoAmaral.jpg",
+    "subTeam": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://google.com/+RodrigoAmaral"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/rodrigoamaral"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/rodrigoamaral"
+      },
+      {
+        "name": "site",
+        "link": "http://rodrigoamaral.net"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Silas",
+    "surname": "Limeira",
+    "title": "GDG João Pessoa",
+    "thumbnailUrl": "SilasLimeira.jpg",
+    "team": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://google.com/+SILASMONTEIRO"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/silasid"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/silasalis"
+      },
+      {
+        "name": "site",
+        "link": "http://silaslimeira.com/"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Wilson",
+    "surname": "Mendes",
+    "title": "GDG Salvador",
+    "thumbnailUrl": "WilsonMendes.png",
+    "subTeam": true,
+    "social": [
+      {
+        "name": "google-plus",
+        "link": "https://plus.google.com/106614160477906803303"
+      },
+      {
+        "name": "twitter",
+        "link": "https://twitter.com/willmendesneto"
+      },
+      {
+        "name": "github",
+        "link": "https://github.com/willmendesneto"
+      },
+      {
+        "name": "site",
+        "link": "http://willmendesneto.github.io/"
+      }
+    ]
+  }
+]
