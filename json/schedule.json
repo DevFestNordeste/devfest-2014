@@ -1,0 +1,125 @@
+[
+  {
+    "date": "2014-10-18",
+    "dateReadable": "18 de outubro",
+    "tracks": [
+      {
+        "title": "Web & Cloud",
+        "color": "#03a9f4"
+      },
+      {
+        "title": "Mobile",
+        "color": "#90be4e"
+      }
+    ],
+    "timeslots": [
+      {
+        "startTime": "08:00",
+        "endTime": "08:20",
+        "sessionIds": [
+          100
+        ]
+      },
+      {
+        "startTime": "08:20",
+        "endTime": "09:00",
+        "sessionIds": [
+          101
+        ]
+      },
+      {
+        "startTime": "09:00",
+        "endTime": "09:50",
+        "sessionIds": [
+          1,
+          2
+        ]
+      },
+      {
+        "startTime": "10:00",
+        "endTime": "10:50",
+        "sessionIds": [
+          3,
+          4
+        ]
+      },
+      {
+        "startTime": "11:00",
+        "endTime": "11:50",
+        "sessionIds": [
+          5,
+          6
+        ]
+      },
+      {
+        "startTime": "12:00",
+        "endTime": "13:30",
+        "sessionIds": [
+          102
+        ]
+      },
+      {
+        "startTime": "13:30",
+        "endTime": "14:20",
+        "sessionIds": [
+          7,
+          0
+        ]
+      },
+      {
+        "startTime": "14:30",
+        "endTime": "15:20",
+        "sessionIds": [
+          0,
+          8
+        ]
+      },
+      {
+        "startTime": "15:30",
+        "endTime": "16:20",
+        "sessionIds": [
+          9,
+          10
+        ]
+      },
+      {
+        "startTime": "16:20",
+        "endTime": "16:40",
+        "sessionIds": [
+          103
+        ]
+      },
+      {
+        "startTime": "16:40",
+        "endTime": "17:30",
+        "sessionIds": [
+          11,
+          12
+        ]
+      },
+      {
+        "startTime": "17:40",
+        "endTime": "18:30",
+        "sessionIds": [
+          13,
+          14
+        ]
+      },
+      {
+        "startTime": "18:40",
+        "endTime": "19:30",
+        "sessionIds": [
+          15,
+          1
+        ]
+      },
+      {
+        "startTime": "19:30",
+        "endTime": "20:20",
+        "sessionIds": [
+          105
+        ]
+      }
+    ]
+  }
+]
