@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Quase lá!"
+date:   2014-10-15 15:00:00
+isStaticPost: false
+---
+
+Já estamos quase lá! Neste sábado, dia 18/10/2014, nos encontraremos no GDG DevFest Nordeste 2014!
+
+**Credenciamento**: Não esqueça do seu ingresso. Leve também um documento de identidade! O credenciamento será no local do evento e começará às 08:00.
+
+**[Não perca nada](http://2014.devfestne.com.br/schedule/)**: o evento começa às 08:20, então chegue mais cedo. Assim terá tempo de efetuar o credenciamento, conversar, receber seu material e procurar um local pra sentar. Confira a agenda do evento [tanto na web](http://2014.devfestne.com.br/schedule/) como no [app Android](https://play.google.com/store/apps/details?id=com.ionicframework.gdgapp143742).
+
+**[Compartilhe suas fotos](https://plus.google.com/events/cdpcrg6ff287chtnc3puqr0gt4c)**: Participe do evento no Google+ e adicione suas fotos!
+
+**[Aproveite ao máximo](https://www.linkedin.com/today/post/article/20140830000204-46316634-how-to-get-the-most-from-conferences-events)**: Pesquise sobre o local, sobre os tópicos do evento e vá preparado para o networking! Sabendo mais sobre os tópicos, você pode fazer novas amizades e aproveitar melhor o conteúdo. Conhecendo o local, você não se perde e pode se divertir no final de semana!
+
+[Aproveite também e confira os nossos parceiros](http://2014.devfestne.com.br/partners/): sem o apoio deles, não conseguiríamos realizar este evento.
