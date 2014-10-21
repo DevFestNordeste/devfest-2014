@@ -61,7 +61,7 @@ heroButtons:
  #- {url: "http://2014.devfestne.com.br/blog/patrocinador/", text: "Seja um patrocinador"}
  #- {url: "https://doity.com.br/devfest-nordeste-2014", text: "Inscreva-se!"}
  #- {url: "https://docs.google.com/forms/d/1yhp0xcYwsggotXGQRr1JnRR-USCxp-AlDM4pprfDgHs/viewform?usp=send_form", text: "Inscrições esgotadas! Entre na lista de espera!"}
- - {url: "#subscribe", text: "Fique por dentro das novidades"}
+ - {url: "https://www.doity.com.br/devfest-nordeste-2014/certificados", text: "Certificados disponíveis"}
 
 # About Block
 aboutTitle: "Sobre GDG DevFest"
@@ -74,7 +74,7 @@ aboutBlock:
 statisticBlock:
  - {count: "350", specialCharacter: "+", info: "participantes", detail: "de todo Brasil"}
  - {count: "12", specialCharacter: "+", info: "horas", detail: "de pura tecnologia Google"}
- - {count: "18", specialCharacter: "+", info: "palestrantes", detail: "de todo Brasil"}
+ - {count: "21", specialCharacter: "+", info: "palestrantes", detail: "de todo Brasil"}
  - {count: "2", specialCharacter: "", info: "trilhas paralelas", detail: "mais lounge de entretenimento"}
 
 # Latest News Block
