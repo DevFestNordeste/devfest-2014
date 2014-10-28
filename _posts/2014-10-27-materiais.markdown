@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Materiais de palestras"
-date:   2014-10-27 18:00:00
+date:   2014-10-28 18:00:00
 isStaticPost: false
 ---
 
@@ -9,4 +9,7 @@ Foi em alguma palestra e gostaria de relembrar algum slide? Listamos abaixo os m
 
 {% for session in site.data.sessions %}
 - {{session.title}}
+	{% for item in session.links %}
+	[{{item.description}}]({{item.url}})
+	{% endfor %}
 {% endfor %}

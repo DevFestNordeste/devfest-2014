@@ -11,6 +11,8 @@
   speakers: [11]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: 'Slides', url: 'http://www.slideshare.net/nglauber/android-lollipop-android-wear'}
 -
   id: 102
   title: "Almoço"
@@ -33,6 +35,8 @@
   speakers: [12]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: '', url: ''}
 -
   id: 001
   title: "Go for Baby Gophers"
@@ -41,6 +45,8 @@
   speakers: [1]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: '', url: ''}
 -
   id: 002 
   title: "Construindo Aplicativos Android de Alto Desempenho"
@@ -49,6 +55,8 @@
   speakers: [5]
   language: pt-br
   complexity: "Intermediário"
+  links:
+    - {description: 'Slides', url: 'https://drive.google.com/open?id=0B3hSeItpKYdUdVFPekwxVWpYWG8&authuser=0'}
 -
   id: 003
   title: "Criando um aplicativo na nuvem para Google Glass"
@@ -57,6 +65,8 @@
   speakers: [20]
   language: pt-br
   complexity: "Intermediário"
+  links:
+    - {description: '', url: ''}
 -
   id: 004
   title: "Criando aplicativos com HTML5 para Android usando o Chrome a seu favor"
@@ -65,6 +75,10 @@
   speakers: [4]
   language: pt-br
   complexity: "Intermediário"  
+  links:
+    - {description: 'Slides', url: 'http://www.slideshare.net/gustavocostaw/desenvolvendo-apps-com-angularjs-cordova'}
+    - {description: 'Vídeo', url: 'https://www.youtube.com/watch?v=Ed5NdqFcgdk'}
+    - {description: 'Código', url: 'https://github.com/GustavoCostaW/devfestne2014'}
 -
   id: 005
   title: "Então você quer aprender AngularJS?"
@@ -73,6 +87,8 @@
   speakers: [18]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: 'Slides', url: 'http://cnun.es/learn-angularjs'}
 -
   id: 006
   title: "API-First: A 'Revolução Industrial' do Software"
@@ -81,6 +97,8 @@
   speakers: [3]
   language: pt-br
   complexity: "Intermediário"
+  links:
+    - {description: 'Slides', url: 'https://speakerdeck.com/hdoria/api-first-a-revolucao-industrial-do-software'}
 -
   id: 007
   title: "PGAE: Um novo LAMP"
@@ -89,6 +107,8 @@
   speakers: [7]
   language: pt-br
   complexity: "Avançado"
+  links:
+    - {description: '', url: ''}
 -
   id: 008
   title: "Startups no Brasil"
@@ -97,6 +117,8 @@
   speakers: [17]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: '', url: ''}
 -
   id: 009
   title: "Websockets e você, tudo a ver"
@@ -105,6 +127,9 @@
   speakers: [6]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: 'Slides', url: 'http://speakerdeck. com/abdala/websockets-e-voce-tudo-a-ver'}
+    - {description: 'Código', url: 'https://t.co/0PgrQogQg1'}
 -  
   id: 010
   title: "Ruby <3 Android"
@@ -113,6 +138,8 @@
   speakers: [15]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: 'Slides', url: 'http://goo.gl/U9ZjBu'}
 -
   id: 011
   title: "Equipes autogerenciadas e meditação: como o Google gerencia seus projetos e sua produtividade"
@@ -121,6 +148,8 @@
   speakers: [8]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: 'Slides', url: 'http://pt.slideshare.net/alerciobdm/equipes-autogerenciadas-e-meditao-no-google'}
 -
   id: 012
   title: "Material Design: Por onde começar?"
@@ -129,6 +158,8 @@
   speakers: [14]
   language: pt-br
   complexity: "Intermediário"
+  links:
+    - {description: 'Slides', url: 'https://drive.google.com/open?id=1MBZKCPTGoSM8N_A6nFkgnXWizsg4KqmSVpP1E8DgCJY&authuser=0'}
 -
   id: 013 
   title: "Chrome Web Apps" 
@@ -137,6 +168,8 @@
   speakers: [2]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: 'Slides', url: 'http://jfnj.me/chromeapps-devfestne'}
 -
   id: 018
   title: "Android: na sua sala e no seu pulso"
@@ -145,6 +178,8 @@
   speakers: [10, 13]
   language: pt-br
   complexity: "Intermediário"
+  links:
+    - {description: 'Slides', url: 'http://pt.slideshare.net/silasis/android-na-sua-sala-e-no-seu-pulso'}
 -
   id: 015
   title: "GWT: de iniciante a especialista"
@@ -153,6 +188,8 @@
   speakers: [19]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: 'Slides', url: 'http://pt.slideshare.net/daniloreinert/gwt-de-iniciante-a-especialista'}
 -
   id: 014
   title: "O Impacto de Wearable Computers na vida das pessoas: Uma ponte para tecnologias assistivas e acessibilidade"
@@ -161,6 +198,8 @@
   speakers: [16]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: 'Slides', url: 'http://1drv.ms/1tFmuqW'}
 -
   id: 017
   title: "Programando em Hackathons com Google App Engine"
@@ -169,6 +208,10 @@
   speakers: [9]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: 'Vídeo 1', url: 'https://www.youtube.com/playlist?list=PLA05yVJtRWYRGIeBxag8uT-3ftcMVT5oF'}
+    - {description: 'Vídeo 2', url: 'https://www.youtube.com/playlist?list=PLA05yVJtRWYTm0sIa6n56UpCjCsR5ekla'}
+    - {description: 'Blog', url: 'http://blog.nuccitec.com.br/2014/10/qual-historia-voce-quer-contar-daqui-30-anos.html'}
 -
   id: 016
   title: "Desenvolvendo para Chromecast"
@@ -177,3 +220,5 @@
   speakers: [21]
   language: pt-br
   complexity: "Básico"
+  links:
+    - {description: 'Slides', url: 'https://speakerdeck.com/johncordeiro/desenvolvendo-para-chromecast'}
