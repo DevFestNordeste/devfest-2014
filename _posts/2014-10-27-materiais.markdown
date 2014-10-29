@@ -8,8 +8,10 @@ isStaticPost: false
 Foi em alguma palestra e gostaria de relembrar algum slide? Listamos abaixo os materiais disponibilizados pelos palestrantes. Se sentir falta de alguma coisa, basta comentar.
 
 {% for session in site.data.sessions %}
-- {{session.title}}
+{% if session.links != null %}
+- **{{session.title}}**
 	{% for item in session.links %}
 	[{{item.description}}]({{item.url}})
 	{% endfor %}
+{% endif %}
 {% endfor %}

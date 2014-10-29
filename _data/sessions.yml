@@ -36,7 +36,7 @@
   language: pt-br
   complexity: "Básico"
   links:
-    - {description: '', url: ''}
+ 
 -
   id: 001
   title: "Go for Baby Gophers"
@@ -46,7 +46,7 @@
   language: pt-br
   complexity: "Básico"
   links:
-    - {description: '', url: ''}
+ 
 -
   id: 002 
   title: "Construindo Aplicativos Android de Alto Desempenho"
@@ -66,7 +66,7 @@
   language: pt-br
   complexity: "Intermediário"
   links:
-    - {description: '', url: ''}
+ 
 -
   id: 004
   title: "Criando aplicativos com HTML5 para Android usando o Chrome a seu favor"
@@ -108,7 +108,7 @@
   language: pt-br
   complexity: "Avançado"
   links:
-    - {description: '', url: ''}
+ 
 -
   id: 008
   title: "Startups no Brasil"
@@ -118,7 +118,7 @@
   language: pt-br
   complexity: "Básico"
   links:
-    - {description: '', url: ''}
+ 
 -
   id: 009
   title: "Websockets e você, tudo a ver"
