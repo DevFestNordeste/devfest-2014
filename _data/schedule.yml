@@ -1,7 +1,7 @@
-- 
+-
   date: "2014-10-18"
   dateReadable: "18 de outubro"
-  tracks: 
+  tracks:
     - {title: "Web & Cloud", color: "#03a9f4"}
     - {title: "Mobile", color: "#90be4e"}
   timeslots:
@@ -9,13 +9,13 @@
     - { startTime: "08:20", endTime: "09:00", sessionIds: [101]}
     - {startTime: "09:00", endTime: "09:50", sessionIds: [001,002]}
     - { startTime: "10:00", endTime: "10:50", sessionIds: [003,004]}
-    - { startTime: "11:00", endTime: "11:50", sessionIds: [005,006]}
+    - { startTime: "11:00", endTime: "11:50", sessionIds: [013,006]}
     - { startTime: "12:00", endTime: "13:30", sessionIds: [102]}
     - { startTime: "13:30", endTime: "14:20", sessionIds: [007,008]}
     - { startTime: "14:30", endTime: "15:20", sessionIds: [009,010]}
     - { startTime: "15:30", endTime: "16:20", sessionIds: [011,012]}
     - { startTime: "16:20", endTime: "16:40", sessionIds: [103]}
-    - { startTime: "16:40", endTime: "17:30", sessionIds: [013,014]}
+    - { startTime: "16:40", endTime: "17:30", sessionIds: [005,014]}
     - { startTime: "17:40", endTime: "18:30", sessionIds: [015,016]}
     - { startTime: "18:40", endTime: "19:30", sessionIds: [017,018]}
     - { startTime: "19:30", endTime: "20:20", sessionIds: [105]}
