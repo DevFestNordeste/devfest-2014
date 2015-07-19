@@ -60,7 +60,8 @@ heroButtons:
  #- {url: "https://doity.com.br/devfest-nordeste-2014", text: "Inscreva-se!"}
  #- {url: "https://docs.google.com/forms/d/1yhp0xcYwsggotXGQRr1JnRR-USCxp-AlDM4pprfDgHs/viewform?usp=send_form", text: "Inscrições esgotadas! Entre na lista de espera!"}
  #- {url: "https://www.doity.com.br/devfest-nordeste-2014/certificados", text: "Certificados disponíveis"}
- - {url: "http://2014.devfestne.com.br/blog/videos/", text: "Confira os vídeos!"}
+ #- {url: "http://2014.devfestne.com.br/blog/videos/", text: "Confira os vídeos!"}
+ - {url: "http://landing.devfestne.com.br/", text: "Fique esperto para o próximo!"}
 
 # About Block
 aboutTitle: "Sobre GDG DevFest"
